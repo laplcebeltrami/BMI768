@@ -9,8 +9,10 @@ Duration: January 21, 2025 - May 2, 2025
 
 Instructor: Moo K. Chung, mkchung@wisc.edu
 University of Wiconsin-Madison
-  Office: Medical Science Center 4725, 1300 University Ave
-  Office Hours: M/W 10:45am-12:30pm, To set up separate Zoom appointments, please email the instructor. 
+
+Office: Medical Science Center 4725, 1300 University Ave
+
+Office Hours: M/W 10:45am-12:30pm, To set up separate Zoom appointments, please email the instructor. 
 
 
 

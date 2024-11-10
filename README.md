@@ -7,7 +7,8 @@ Room: Grainger 2180
 Duration: January 21, 2025 - May 2, 2025
 
 
-__Instructor:__ Moo K. Chung, mkchung@wisc.edu
+##Instructor: 
+Moo K. Chung, mkchung@wisc.edu
 University of Wiconsin-Madison
 
 Office: Medical Science Center 4725, 1300 University Ave

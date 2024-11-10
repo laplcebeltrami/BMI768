@@ -1,4 +1,4 @@
-# BMI768
+# BMI/STAT 768
 
 2025 Spring Semester
 

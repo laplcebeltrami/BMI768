@@ -41,5 +41,21 @@ Network Data Analysis (NDA): Trees, graphs, networks
 There is no required textbook. Lecture slides, additional notes, computer codes will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each methods works. Parts of lectures will be based on the following three text books written by the instructor:
 
 Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
+
 Statistical and Computational Methods in Brain Image Analsis, 2013 CRC Press
+
 Brain Network Analysis, 2019 Cambridge University Press
+
+
+## Course evaluation 
+
+The course evalution is based on the final project report. Students are required submit the final research project report.
+Optional oral presentation on the project can be done through the class. The project can be 
+
+1) literature review or method survey on topics we discussed in class,
+
+2) computer programming project,
+  
+3) Detailed solution to specific problems dicussed in class
+
+4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So the sample project reports may not reflect the current course topics. 

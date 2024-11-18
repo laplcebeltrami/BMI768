@@ -62,4 +62,4 @@ Optional oral presentation on the project can be done through the class. The pro
   
 3) detailed solution to specific problems dicussed in class, or
 
-4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So the sample project reports may not reflect the current course topics. 
+4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found here: https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So the sample project reports may not reflect the current course topics. 

@@ -42,7 +42,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 ## Textbooks
 
-There is no required textbook. Lecture slides, additional notes, computer codes will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each methods works. Parts of lectures will be based on the following three text books written by the instructor:
+There is no required textbook. Lecture slides, additional notes, computer codes will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each method works. Parts of lectures will be based on the following three text books written by the instructor:
 
 Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
 

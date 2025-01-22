@@ -1,8 +1,15 @@
-% Manifold data: sulcal pattern data
+% Manifold data: sulcal pattern data published in
+%
+%Huang, S.-G., Lyu, I., Qiu, A., Chung, M.K. 2020. 
+% Fast polynomial approximation of heat kernel convolution 
+% on manifolds and its application to brain sulcal and 
+% gyral graph pattern analysis, IEEE Transactions on 
+% Medical Imaging 39:2201-2212  arXiv 1911.02721
+
 
 % (C) 2025 Moo K. Chung
 % University of Wisconsin-Madison
-
+% Last update: Jan 22, 2025
 
 load sulcalpattern.mat
 

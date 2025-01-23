@@ -17,7 +17,7 @@ University of Wiconsin-Madison
 
 Office: Medical Science Center 4725, 1300 University Ave
 
-Office Hours: M/W 10:45am-12:30pm. Since MSC is too far from the lecture hall, I will hold the officee hour in the class room after each class. 
+Office Hours: M/W 10:45am-12:00pm. Since MSC is too far from the lecture hall, I will hold the officee hour in the class room after each class. 
 To set up separate Zoom appointments, please email the instructor. 
 
 

@@ -65,8 +65,8 @@ Optional oral presentation on the project can be done through the class. The pro
 
 4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found here: https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So the sample project reports may not reflect the current course topics. 
 
-Students new to the field, you do not require to prepare for your own medical imaging data for the project report. The state of art medical imaging data will be freely available through class. About 5 different types data sets (2D and 3D images, surface mesh data, network data, time series data) will be available.
-🔴 **Red Text:** This is a workaround using an emoji.
+🔴 For students new to the field, you do not require to prepare for your own medical imaging data for the project report. The state of art medical imaging data will be freely available through class. About 5 different types data sets (2D and 3D images, surface mesh data, network data, time series data) will be available. If you want to use your own medical imaging data, consult with the instructor. 
+
 
 
 

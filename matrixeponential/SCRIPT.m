@@ -33,8 +33,17 @@ X=[1 2 3
          
 %We can estimate the closest positive definite symmetric matrix to X
 %by running
+% Exponential map maps from symmetric matrix to PDS
+Y = exp(X);
+% [U,S,V] = svd(Y)
+% S =
+% 
+%    28.0810         0         0
+%          0   17.3673         0
+%          0         0    2.1118
 
-X_esimate = PDS_find(X)
+
+X_estimate = PDS_find(X)
 
 %Find eigenvalues
 %[U,S,V] = svd(X_estimate)
@@ -47,6 +56,7 @@ X_esimate = PDS_find(X)
 %Error givgen in terms of Frobius norm
 norm(X-X_estimate,'fro')
 %0.3378
+
 
 
 %Another example

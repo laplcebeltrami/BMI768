@@ -36,7 +36,7 @@ Statitical Models: Inference, clustering and classification
 
 Time series analysis: Biomedical signals, autoregressive models, least squares estimation in time series, granger causality
 
-Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations
+Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations, regression with basis functions
 
 Geometric Data Analysis (GDA): Riemannian geometry, Jacobain determinant vs. metric tensor, manifold learning, 
 regression on manifolds, spectral geometry, spectral clustering

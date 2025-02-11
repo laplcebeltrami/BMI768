@@ -26,7 +26,7 @@ The course is designed for graduate students who wish to learn quantitative math
 
 
 
-🔴 ## Topics
+## 🔴 Topics
 
 MATLAB programming: Image computation, online & scalable algorithms, optimizations
 

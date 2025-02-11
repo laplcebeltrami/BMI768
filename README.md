@@ -40,7 +40,7 @@ Functional Data Analysis (FDA): Hilbert space theory, basis function methods, di
 
 Geometric Data Analysis (GDA): Riemannian geometry, spectral geometry, manifold learning, regression on manifolds, spectral clustering
 
-Topological Data Analysis (TDA): Simplical homology, persistent homology, algebraic topology, topological clustering
+Topological Data Analysis (TDA): persistent homology, persistent diagram, barcodes, topolgoical distance, topological clustering
 
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition
 

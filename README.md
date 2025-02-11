@@ -46,6 +46,10 @@ Topological Data Analysis (TDA): persistent homology, persistent diagram, barcod
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization
 
 
+## 🔴 Outline
+
+Linear equations, least squares estimation, matrix exponential, diffusion - 3 weeks
+Time series data, clustering, state space stimation, autoregressive model, Granger causality - 3 weeks
 
 
 ## Textbooks

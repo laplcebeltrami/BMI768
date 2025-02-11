@@ -26,11 +26,15 @@ The course is designed for graduate students who wish to learn quantitative math
 
 
 
-## Topics
+🔴 Topics
 
 MATLAB programming: Image computation, online & scalable algorithms, optimizations
 
-Statitical Models: Inference, clusstering and classification
+Data visualization using MATLAB: manifold data, network and graph data
+
+Statitical Models: Inference, clustering and classification
+
+Time series analysis: Biomedical signals, autoregressive models, least squares estimation in time series, granger causality
 
 Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations
 
@@ -39,6 +43,8 @@ Geometric Data Analysis (GDA): Riemannian geometry, spectral geometry, manifold 
 Topological Data Analysis (TDA): Simplical homology, persistent homology, algebraic topology, topological clustering
 
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition
+
+
 
 
 ## Textbooks

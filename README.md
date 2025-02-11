@@ -49,6 +49,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 ## 🔴 Outline
 
 Linear equations, least squares estimation, matrix exponential, diffusion - 3 weeks
+
 Time series data, clustering, state space stimation, autoregressive model, Granger causality - 3 weeks
 
 

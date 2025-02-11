@@ -30,7 +30,7 @@ The course is designed for graduate students who wish to learn quantitative math
 
 MATLAB programming: Image computation, online & scalable algorithms, optimizations
 
-Data visualization using MATLAB: manifold data, network and graph data
+Data visualization using MATLAB: manifold data, network and graph data, scientific animation
 
 Statitical Models: Inference, clustering and classification
 
@@ -38,11 +38,12 @@ Time series analysis: Biomedical signals, autoregressive models, least squares e
 
 Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations
 
-Geometric Data Analysis (GDA): Riemannian geometry, spectral geometry, manifold learning, regression on manifolds, spectral clustering
+Geometric Data Analysis (GDA): Riemannian geometry, Jacobain determinant vs. metric tensor, manifold learning, 
+regression on manifolds, spectral geometry, spectral clustering
 
 Topological Data Analysis (TDA): persistent homology, persistent diagram, barcodes, topolgoical distance, topological clustering
 
-Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition
+Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization
 
 
 

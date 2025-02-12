@@ -52,6 +52,8 @@ Linear equations, least squares estimation, matrix exponential, diffusion - 3 we
 
 Time series data, clustering, state space stimation, autoregressive model, Granger causality - 3 weeks
 
+Topological data analysis, topological distance, topological clustering, persitent diagrams, Hoddge Laplacian - 3 weeks
+
 
 ## Textbooks
 

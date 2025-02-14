@@ -41,7 +41,7 @@ Functional Data Analysis (FDA): Hilbert space theory, basis function methods, di
 Geometric Data Analysis (GDA): Riemannian geometry, Jacobain determinant vs. metric tensor, manifold learning, 
 regression on manifolds, spectral geometry, spectral clustering
 
-Topological Data Analysis (TDA): persistent homology, persistent diagram, barcodes, topolgoical distance, topological clustering
+Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topolgoical distance, topological clustering
 
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization
 
@@ -52,7 +52,7 @@ Linear equations, least squares estimation, matrix exponential, diffusion - 3 we
 
 Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 3 weeks
 
-Topological data analysis, topological distance, topological clustering, persitent diagrams, Hodge Laplacian - 3 weeks
+Topological data analysis, topological distance, topological clustering, persitence diagrams, Hodge Laplacian - 3 weeks
 
 
 ## Textbooks

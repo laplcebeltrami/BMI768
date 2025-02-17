@@ -20,8 +20,14 @@ fs = 500;  % Sampling frequency in Hertz (Hz) represents
 % the wave repeats 50 times per second.
 
 T = 1;      % Total duration in seconds
-t = 0:1/fs:(T-1/fs); % Time points where time series x will be analyzed
-x = sin(2*pi*50*t) + 0.5*sin(2*pi*120*t) + 0.2*randn(size(t)); % Signal with noise
+t = 0:1/fs:(T-1/fs); % Time points where time series x will be sampled
+%x = sin(2*pi*50*t) + 0.5*sin(2*pi*120*t) + 0.2*randn(size(t));
+x = sin(2*pi*50*t) + 0.5*cos(2*pi*120*t) + 0.2*randn(size(t));
+
+% Signal (50 and 120 Hz) with noise
+% Hertz (Hz) is the unit of frequency, which 
+% measures how many cycles (or oscillations) of a 
+% periodic signal occur per second.
 
 figure;
 plot(t, x, 'LineWidth', 2);
@@ -101,3 +107,85 @@ title('Spectrogram');
 figure_bigger(30)
 colorbar; colormap jet;
 ylim([0 250]); 
+
+% Extract first voxel's time series from rs-fMRI data
+x = rsfMRI(:,1,1);
+
+% Compute FFT
+X = fft(x); 
+N = length(x); 
+
+% Define sampling frequency based on TR
+TR = 0.72; % Repetition Time in seconds
+fs = 1/TR; % Sampling frequency in Hz
+
+% Compute the correct frequency vector
+freq = (0:N/2-1)*(fs/N); % Only take positive frequencies
+
+% Compute the magnitude of the spectrum
+X_mag = abs(X)/N; % Normalize by N
+X_mag = X_mag(1:N/2); % Take only positive frequencies
+
+% Identify multiple prominent frequencies using findpeaks
+num_peaks = 3; % Number of prominent frequencies to detect
+[pks, locs] = findpeaks(X_mag, 'SortStr', 'descend', 'NPeaks', num_peaks);
+dominant_freqs = freq(locs);
+
+% Plot the Fourier Transform magnitude spectrum
+figure;
+plot(freq, X_mag, 'b', 'LineWidth', 1.5);
+xlabel('Frequency (Hz)');
+ylabel('Magnitude: Fourier Transform');
+grid on; hold on;
+
+% Mark the most prominent frequencies
+plot(dominant_freqs, pks, 'ro', 'MarkerSize', 8, 'LineWidth', 2);
+for i = 1:num_peaks
+    text(dominant_freqs(i), pks(i), sprintf(' %.2f Hz', dominant_freqs(i)), ...
+        'VerticalAlignment', 'bottom', 'FontSize', 30);
+end
+hold off;
+figure_bigger(30)
+
+
+%---------
+% Real rs-fMRI data
+x=rsfMRI(:,1,1)
+
+X = fft(x); 
+N = length(x); 
+freq = (0:N-1)*(fs/N); % Frequency vector
+
+% Define sampling frequency based on TR
+TR = 0.72; % Repetition Time in seconds
+fs = 1/TR; % Sampling frequency in Hz
+
+% Compute the correct frequency vector
+freq = (0:N/2-1)*(fs/N); % Only take positive frequencies
+
+
+% Compute the magnitude of the spectrum
+X_mag = abs(X)/N; % Normalize by N
+X_mag = X_mag(1:N/2); % Take the first half (positive frequencies)
+freq = freq(1:N/2);   % Corresponding frequency axis
+
+% Identify multiple prominent frequencies using findpeaks
+num_peaks = 3; % Number of prominent frequencies to detect
+[pks, locs] = findpeaks(X_mag, 'SortStr', 'descend', 'NPeaks', num_peaks);
+dominant_freqs = freq(locs);
+
+% Plot the Fourier Transform magnitude spectrum
+figure
+plot(freq, X_mag, 'b', 'LineWidth', 1.5);
+xlabel('Frequency (Hz)');
+ylabel('Magnitude: Fourier Transform');
+grid on; hold on;
+
+% Mark the most prominent frequencies
+plot(dominant_freqs, pks, 'ro', 'MarkerSize', 8, 'LineWidth', 2);
+for i = 1:num_peaks
+    text(dominant_freqs(i), pks(i), sprintf(' %.1f Hz', dominant_freqs(i)), 'VerticalAlignment', 'bottom', 'FontSize', 30);
+end
+hold off; figure_bigger(30)
+
+xlim([0 0.1])

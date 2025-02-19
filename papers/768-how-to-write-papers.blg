@@ -1,0 +1,349 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 768-how-to-write-papers.aux
+The style file: plainnat.bst
+Database file #1: reference.2021.01.21.bib
+You're missing a field name---line 3 of file reference.2021.01.21.bib
+ : 
+ : %  author  = {Peter Adams},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 15 of file reference.2021.01.21.bib
+ : 
+ : %  author    = {Peter Babington},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 29 of file reference.2021.01.21.bib
+ : 
+ : %  title        = {The title of the work},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 39 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Draper},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 55 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Eston},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 70 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Farindon},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 86 of file reference.2021.01.21.bib
+ : 
+ : %  title        = {The title of the work},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 97 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Harwood},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 107 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Isley},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 116 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Joslin},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 126 of file reference.2021.01.21.bib
+ : 
+ : %  title        = {The title of the work},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 139 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Lambert},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 150 of file reference.2021.01.21.bib
+ : 
+ : %  author       = {Peter Marcheford},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 329 of file reference.2021.01.21.bib
+ :      
+ :      %Journal = "ArXiv e-prints",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 380 of file reference.2021.01.21.bib
+ : 
+ : %  title={Voronoi diagrams and {D}elaunay triangulations},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 601 of file reference.2021.01.21.bib
+ :   volume
+ :         {18},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1806 of file reference.2021.01.21.bib
+ :   
+ :   pages={1019}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2470 of file reference.2021.01.21.bib
+ :  
+ :  % address =  {New York},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2597 of file reference.2021.01.21.bib
+ :  
+ :  %note={\url{http://www.stat.wisc.edu/~mchung/papers/chung.2010.SII.pdf}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2674 of file reference.2021.01.21.bib
+ :       
+ :       year={2014}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2762 of file reference.2021.01.21.bib
+ :  
+ :  % url={http://arxiv.org/abs/1709.09645},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2771 of file reference.2021.01.21.bib
+ :   
+ :   %url={http://www.biorxiv.org/content/early/2017/10/27/209635}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2780 of file reference.2021.01.21.bib
+ :   
+ :   %url={http://arxiv.org/abs/1710.07849}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2790 of file reference.2021.01.21.bib
+ :   
+ :   %url={https://arxiv.org/abs/1807.02885}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2807 of file reference.2021.01.21.bib
+ : 
+ : %url={http://www.stat.wisc.edu/~mchung/papers/chung.2018.heat.pdf
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2834 of file reference.2021.01.21.bib
+ :   
+ :   %url={http://www.stat.wisc.edu/~mchung/papers/chung.2019.CNI.pdf}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3097 of file reference.2021.01.21.bib
+ :  
+ :  % volume =       {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3718 of file reference.2021.01.21.bib
+ :   
+ :   pages={531--545},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4116 of file reference.2021.01.21.bib
+ :   
+ :   pages={47--49}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4171 of file reference.2021.01.21.bib
+ : 
+ : @article{gee.1993,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4388 of file reference.2021.01.21.bib
+ : 
+ : volume={9},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4627 of file reference.2021.01.21.bib
+ :   
+ :   %arXiv:1812.10050
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4637 of file reference.2021.01.21.bib
+ :     
+ :     %arXiv:1911.02721
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4724 of file reference.2021.01.21.bib
+ : 
+ : @book{feller.2008,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5144 of file reference.2021.01.21.bib
+ :   
+ :   pages =        {47--49},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5225 of file reference.2021.01.21.bib
+ :   
+ :   address={New York}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5434 of file reference.2021.01.21.bib
+ :   
+ :   booktitle={Proceedings of
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 6402 of file reference.2021.01.21.bib
+ :   
+ :   % heat kernel smoothing on fMRI
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 6621 of file reference.2021.01.21.bib
+ : 
+ : @article{ingalhalikar.2014,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 7254 of file reference.2021.01.21.bib
+ : 
+ : %  series =       {Probability and Its Applications}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `)'---line 8075 of file reference.2021.01.21.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 8515 of file reference.2021.01.21.bib
+ :  
+ :  % address =  {},}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 8561 of file reference.2021.01.21.bib
+ :  
+ :  % address =  {},}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `)'---line 8605 of file reference.2021.01.21.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 8647 of file reference.2021.01.21.bib
+ :  
+ :  % address =  {},}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 8685 of file reference.2021.01.21.bib
+ :  
+ :  % address =  {},}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 9777 of file reference.2021.01.21.bib
+ :   
+ :   publisher={bepress}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 10865 of file reference.2021.01.21.bib
+ :   
+ :   title =        {Volumetric, connective and morphologic changes in
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 11013 of file reference.2021.01.21.bib
+ : 
+ : journal =  {NeuroImage},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 11254 of file reference.2021.01.21.bib
+ :   
+ :   volume={18},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 11368 of file reference.2021.01.21.bib
+ :  
+ :  % volume =       {12},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 11505 of file reference.2021.01.21.bib
+ : 
+ : %author="Talairach, J. and Tournoux, P.",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11751 of file reference.2021.01.21.bib
+ :   
+ :   title={Mapping adolescent brain change reveals dynamic wave of accelerated gray matter loss in very early-onset schizophrenia},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12349 of file reference.2021.01.21.bib
+ :  
+ :  note = {\url{http://www.stawisc.edu/~mchung/papers/wang.2018.annals.pdf}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12360 of file reference.2021.01.21.bib
+ :  
+ :  %note = {\url{http://www.stat.wisc.edu/~mchung/papers/wang.2019.ICASSP.pdf}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 12399 of file reference.2021.01.21.bib
+ : 
+ : volume="",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 13117 of file reference.2021.01.21.bib
+ :  
+ :  % volume={27},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 13432 of file reference.2021.01.21.bib
+ :  
+ :  % volume={26},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Name 2 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1347 of file plainnat.bst
+Name 3 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1347 of file plainnat.bst
+Name 2 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1429 of file plainnat.bst
+Name 3 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1429 of file plainnat.bst
+Name 2 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1429 of file plainnat.bst
+Name 3 in "Chung, M.K. and Worsley, K.J., and Robbins, S., and Evans, A.C." has a comma at the end for entry chung.2003.CVPR
+while executing---line 1429 of file plainnat.bst
+Warning--empty journal in song.2020.arXiv
+You've used 4 entries,
+            2773 wiz_defined-function locations,
+            621 strings with 5565 characters,
+and the built_in function-call counts, 2470 in all, are:
+= -- 226
+> -- 145
+< -- 5
++ -- 49
+- -- 45
+* -- 174
+:= -- 350
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 26
+chr.to.int$ -- 4
+cite$ -- 9
+duplicate$ -- 127
+empty$ -- 176
+format.name$ -- 51
+if$ -- 542
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 16
+pop$ -- 60
+preamble$ -- 1
+purify$ -- 23
+quote$ -- 0
+skip$ -- 126
+stack$ -- 0
+substring$ -- 97
+swap$ -- 47
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 39
+warning$ -- 1
+while$ -- 18
+width$ -- 0
+write$ -- 59
+(There were 64 error messages)

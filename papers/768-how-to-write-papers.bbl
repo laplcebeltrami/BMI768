@@ -1,0 +1,31 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chung(2012)]{chung.2012.CNA}
+M.K. Chung.
+\newblock \emph{Computational Neuroanatomy: The Methods}.
+\newblock World Scientific, Singapore, 2012.
+
+\bibitem[Chung et~al.(2001)Chung, Worsley, Paus, Cherif, Collins, Giedd,
+  Rapoport, and Evans]{chung.2001.NI}
+M.K. Chung, K.J. Worsley, T.~Paus, D.L. Cherif, C.~Collins, J.~Giedd, J.L.
+  Rapoport, and A.C. Evans.
+\newblock A unified statistical approach to deformation-based morphometry.
+\newblock \emph{NeuroImage}, 14:\penalty0 595--606, 2001.
+
+\bibitem[Chung et~al.(2003)Chung, Worsley, Robbins, and Evans]{chung.2003.CVPR}
+M.K. Chung, K.J. Worsley, S.~Robbins, and A.C. Evans.
+\newblock Tensor-based brain surface modeling and analysis.
+\newblock In \emph{IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, volume~I, pages 467--473, 2003.
+
+\bibitem[Songdechakraiwut and Chung(2020)]{song.2020.arXiv}
+T.~Songdechakraiwut and M.K Chung.
+\newblock Topological learning for brain networks.
+\newblock page arXiv:2012.00675, 2020.
+
+\end{thebibliography}

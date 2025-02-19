@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  19 FEB 2025 08:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  19 FEB 2025 08:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -445,12 +445,12 @@ een already used, duplicate ignored
 l.136 \newpage
                [4 <./toy_meantop.png>]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-42.
+43.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (6.83495pt too wide) in paragraph at lines 147--148
+Overfull \hbox (6.83495pt too wide) in paragraph at lines 148--149
 \OT1/ptm/m/n/12 base-line val-i-da-tion datasets. This may in-volve quan-ti-ta-
 tive eval-u-a-tion through
  []
@@ -460,23 +460,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.151 
+l.152 
        [5]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.169 
-       [6]
+l.169 \item \textbf
+                   {Flagrism}: Students are expected to complete their work ...
+[6]
 
-./768-how-to-write-papers.tex:172: LaTeX Error: \begin{itemize} on input line 1
-41 ended by \end{document}.
+./768-how-to-write-papers.tex:173: LaTeX Error: \begin{itemize} on input line 1
+42 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 \end{document}
+l.173 \end{document}
                     
 ? 
 
@@ -484,7 +485,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.172 \end{document}
+l.173 \end{document}
                      [7] (./768-how-to-write-papers.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -496,7 +497,7 @@ Package rerunfilecheck Info: File `768-how-to-write-papers.out' has not changed
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 141 (\begingroup)
+### semi simple group (level 1) entered at line 142 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  10457 strings out of 474116
@@ -514,7 +515,7 @@ msy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pf
 b></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 768-how-to-write-papers.pdf (7 pages, 554681 bytes).
+Output written on 768-how-to-write-papers.pdf (7 pages, 554987 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

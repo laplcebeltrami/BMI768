@@ -50,7 +50,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 Linear equations, least squares estimation, matrix exponential, diffusion - 3 weeks
 
-Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 3 weeks
+Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
 Topological data analysis, topological distance, topological clustering, persitence diagrams, Hodge Laplacian - 3 weeks
 

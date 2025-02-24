@@ -38,7 +38,6 @@ xlabel('Target Variable'); ylabel('Predictor Variable');
 xticks(1:N); yticks(1:N);
 xticklabels(strcat('X', string(1:N))); yticklabels(strcat('X', string(1:N)));
 
-
 %% Application to rs-fMRI signals (6 regions)
 
 load rsfMRI.mat
@@ -84,3 +83,63 @@ xticklabels(strcat('X', string(1:N))); yticklabels(strcat('X', string(1:N)));
 % the method to do prediction of future event. 
 % Observing time points 1 to 1100, can you predict time points
 % 1101 to 1200?
+
+
+
+clear; clc; rng(1); % Set random seed for reproducibility
+
+% Define parameters
+N = 2;  % Number of time series
+T = 100; % Total time points
+P = 2;  % Order of VAR model
+T_future = 120; % Extend for future prediction
+
+% Define true VAR(2) coefficient matrices
+A1 = [0.5, 0.2; -0.3, 0.4]; % Lag-1 coefficients
+A2 = [-0.2, 0.1; 0.1, -0.1]; % Lag-2 coefficients
+
+% Generate Gaussian noise
+epsilon = 0.5 * randn(N, T_future);
+
+% Initialize time series
+X = zeros(N, T_future);
+
+% Simulate VAR(2) process
+for t = P+1:T_future
+    X(:, t) = A1 * X(:, t-1) + A2 * X(:, t-2) + epsilon(:, t);
+end
+
+figure; VAR_plot(X, '-k');
+
+% Use first 100 time points for training
+X_train = X(:, 1:100);
+
+% Fit VAR model using least squares
+[A_est, X_pred, ~] = VAR_fit(X_train, P);
+
+% Step 4: Predict Future Values (Time Points 101-120)
+X_future = zeros(N, T_future);
+X_future(:, 1:100) = X(:, 1:100); % Copy known values
+
+for t = 101:T_future
+    X_input = reshape(X_future(:, t-P:t-1), [], 1); % Stack past P values
+    X_future(:, t) = A_est * X_input;  % Predict next step
+end
+
+% Extract true vs. predicted future values (101-120)
+X_pred_future = X_future(:, 101:T_future);
+X_actual_future = X(:, 101:T_future);
+
+% Plot actual vs. predicted time series
+figure;
+for i = 1:N
+    subplot(N,1,i);
+    hold on;
+    plot(1:100, X(i,1:100), 'b', 'LineWidth', 1.5); % Actual data
+    plot(101:120, X_actual_future(i,:), '--k', 'LineWidth', 1.5); % True future
+    plot(101:120, X_pred_future(i,:), 'r', 'LineWidth', 1.5); % Predicted future
+    title(['VAR Model Prediction for X_', num2str(i)]);
+    xlabel('Time'); ylabel(['X_', num2str(i)]);
+    legend('Training Data', 'True Future', 'Predicted Future');
+    hold off;
+end

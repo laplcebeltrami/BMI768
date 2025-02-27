@@ -54,6 +54,10 @@ Time series data, clustering, state space stimation, time frequency analysis, au
 
 Topological data analysis, topological distance, topological clustering, persitence diagrams, Hodge Laplacian - 3 weeks
 
+Scientif visualization, vector, network and manifold visulalization - 1 week
+
+Inference, permutation test, online test procedures - 2 week 
+
 
 ## Textbooks
 

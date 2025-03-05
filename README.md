@@ -52,11 +52,13 @@ Linear equations, least squares estimation, matrix exponential, diffusion - 3 we
 
 Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
-Topological data analysis, topological distance, topological clustering, persistence diagrams, Hodge Laplacian - 3 weeks
+Topological data analysis, Betti numbers, topological distance, topological clustering, persistence diagrams - 3 weeks
 
-Scientif visualization, vector, network and manifold visulalization - 1 week
+Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Inference, permutation test, online test procedures - 2 week 
+
+Scientific visualization, vector, network and manifold visulalization - 1 week
 
 
 ## Textbooks

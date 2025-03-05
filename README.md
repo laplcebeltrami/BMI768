@@ -54,9 +54,9 @@ Time series data, clustering, state space stimation, time frequency analysis, au
 
 Topological data analysis, Betti numbers, topological distance, topological clustering, persistence diagrams - 3 weeks
 
-Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
+Inference, permutation test, online test procedures - 1 week 
 
-Inference, permutation test, online test procedures - 2 week 
+Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Scientific visualization, vector, network and manifold visulalization - 1 week
 

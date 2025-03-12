@@ -48,13 +48,15 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 ## 🔴 Outline
 
-Linear equations, least squares estimation, matrix exponential, diffusion - 3 weeks
+Linear equations least squares estimation, matrix exponential, diffusion - 3 weeks
 
 Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
-Topological data analysis, Betti numbers, topological distance, topological clustering, persistence diagrams - 3 weeks
+Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
 
-Inference, permutation test, online test procedures - 1 week 
+Statistical Inference, permutation test, online test procedures - 1 week 
+
+Wasserstein distance (optimal transport), opological distance, distance based learning - 1 week
 
 Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 

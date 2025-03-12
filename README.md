@@ -56,13 +56,13 @@ Topological data analysis: Betti numbers, topological clustering, persistence di
 
 Statistical Inference, permutation test, online test procedures - 1 week 
 
-Wasserstein distance (optimal transport), opological distance, distance based learning - 1 week
+Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 
 Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Scientific visualization, vector, network and manifold visulalization - 1 week
 
-Fourier transform & analysis on manifolds - 1 wweek
+Fourier transform & analysis on manifolds - 1 week
 
 
 ## Textbooks
@@ -78,7 +78,7 @@ Brain Network Analysis, 2019 Cambridge University Press
 
 ## Course evaluation 
 
-The course evalution is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Reseach Report). Students are required submit the final research project report. Additional oral presentation on the project can be done through the class. The project can be 
+The course evalution is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Reseach Report). Students are required submit the final project report. Additional oral presentation on the project can be done through the class. The project can be 
 
 1) literature review or method survey on topics we discussed in class,
 

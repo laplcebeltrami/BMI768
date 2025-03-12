@@ -62,6 +62,8 @@ Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Scientific visualization, vector, network and manifold visulalization - 1 week
 
+Fourier transform & analysis on manifolds - 1 wweek
+
 
 ## Textbooks
 

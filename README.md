@@ -60,9 +60,11 @@ Wasserstein distance (optimal transport), topological distance, distance based l
 
 Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
+Fourier analysis (including Fourier transform) on manifolds and graphs - 1 week
+
 Scientific visualization, vector, network and manifold visulalization - 1 week
 
-Fourier transform & analysis on manifolds - 1 week
+
 
 
 ## Textbooks

@@ -64,6 +64,7 @@ Fourier analysis (including Fourier transform) using least sqaures - 1 week
 
 Scientific visualization, vector, network and manifold visulalization, simplical complexes - 1 week
 
+Statistical simulation and validations - 1 week
 
 
 

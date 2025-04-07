@@ -62,7 +62,7 @@ Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Fourier analysis (including Fourier transform) using least sqaures - 1 week
 
-Scientific visualization, vector, network and manifold visulalization - 1 week
+Scientific visualization, vector, network and manifold visulalization, simplical complexes - 1 week
 
 
 

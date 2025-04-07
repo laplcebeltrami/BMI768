@@ -1,1 +1,1 @@
-
+FFT.pdf is the final project report done in "Fourier Analysis" class at the Department of Mathematics of the University of Toronto, Canada 30 years ago by the instructor. The report gives the mathematical and algorithimc details of how Fast Fourier Transform is done in practice.  

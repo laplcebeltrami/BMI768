@@ -32,14 +32,13 @@ MATLAB programming: Image computation, online & scalable algorithms, optimizatio
 
 Data visualization using MATLAB: manifold data, network and graph data, scientific animation
 
-Statitical Models: Inference, clustering and classification
+Statitical Models: Inference, p-values, statistical significance, clustering 
 
 Time series analysis: Biomedical signals, autoregressive models, least squares estimation in time series, granger causality
 
 Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations, regression with basis functions
 
-Geometric Data Analysis (GDA): Riemannian geometry, Jacobain determinant vs. metric tensor, manifold learning, 
-regression on manifolds, spectral geometry, spectral clustering
+Geometric Data Analysis (GDA): Riemannian geometry, regression on manifolds, spectral geometry, spectral clustering
 
 Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topolgoical distance, topological clustering
 
@@ -59,6 +58,8 @@ Statistical Inference, permutation test, online test procedures - 1 week
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 
 Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
+
+Publiction ethics - 1 class
 
 Fourier analysis (including Fourier transform) using least sqaures - 1 week
 

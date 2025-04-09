@@ -59,8 +59,6 @@ Wasserstein distance (optimal transport), topological distance, distance based l
 
 Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
-Publiction ethics - 1 class
-
 Fourier analysis (including Fourier transform) using least sqaures - 1 week
 
 Similarity and distance measures: entropy, mutual information, correlations - 1 week

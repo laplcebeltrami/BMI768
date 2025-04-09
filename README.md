@@ -83,7 +83,7 @@ Brain Network Analysis, 2019 Cambridge University Press
 
 ## Course evaluation 
 
-The course evalution is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Reseach Report). Students are required submit the final project report. Additional oral presentation on the project can be done through the class. The project can be 
+The course evalution is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Reseach Report). Students are required submit the final project report regardless of the project they do. Additional oral presentation on the project can be done through the class. The project can be 
 
 1) literature review or method survey on topics we discussed in class,
 

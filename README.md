@@ -13,11 +13,11 @@ Duration: January 21, 2025 - May 2, 2025
 ## Instructor
 Moo K. Chung, mkchung@wisc.edu
 
-University of Wiconsin-Madison
+University of Wisconsin-Madison
 
 Office: Medical Science Center 4725, 1300 University Ave
 
-Office Hours: M/W 10:45am-12:00pm. Since MSC is too far from the lecture hall, I will hold the officee hour in the class room after each class. 
+Office Hours: M/W 10:45am-12:00pm. Since MSC is too far from the lecture hall, I will hold the office hour in the class room after each class. 
 To set up separate Zoom appointments, please email the instructor. 
 
 
@@ -32,7 +32,7 @@ MATLAB programming: Image computation, online & scalable algorithms, optimizatio
 
 Data visualization using MATLAB: manifold data, network and graph data, scientific animation
 
-Statitical Models: Inference, p-values, statistical significance, clustering 
+Statistical Models: Inference, p-values, statistical significance, clustering 
 
 Time series analysis: Biomedical signals, autoregressive models, least squares estimation in time series, granger causality
 
@@ -40,7 +40,7 @@ Functional Data Analysis (FDA): Hilbert space theory, basis function methods, di
 
 Geometric Data Analysis (GDA): Riemannian geometry, regression on manifolds, spectral geometry, spectral clustering
 
-Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topolgoical distance, topological clustering
+Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topological distance, topological clustering
 
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization
 
@@ -49,7 +49,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 Linear equations least squares estimation, matrix exponential, diffusion - 3 weeks
 
-Time series data, clustering, state space stimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
+Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
 
@@ -57,9 +57,9 @@ Statistical Inference, permutation test, online test procedures - 1 week
 
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 
-Hodge theory: Boudnary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
+Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
-Fourier analysis (including Fourier transform) using least sqaures - 1 week
+Fourier analysis (including Fourier transform) using least squares - 1 week
 
 Statistical simulation and validations - 1 week
 
@@ -70,14 +70,14 @@ There is no required textbook. Lecture slides, additional notes, computer codes 
 
 Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
 
-Statistical and Computational Methods in Brain Image Analsis, 2013 CRC Press
+Statistical and Computational Methods in Brain Image Analysis, 2013 CRC Press
 
 Brain Network Analysis, 2019 Cambridge University Press
 
 
 ## Course evaluation 
 
-The course evalution is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Reseach Report). Students are required submit the final project report regardless of the project they do. Additional oral presentation on the project can be done through the class. The project can be 
+The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Research Report). Students are required submit the final project report regardless of the project they do. Additional oral presentation on the project can be done through the class. The project can be 
 
 1) literature review or method survey on topics we discussed in class,
 
@@ -85,9 +85,9 @@ The course evalution is based on the final project report related activities (10
   
 3) detailed solution to specific problems dicussed in class, or
 
-4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found here: https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So the sample project reports may not reflect the current course topics. 
+4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found here: https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics. 
 
-🔴 For students new to the field, you do not require to prepare for your own medical imaging data for the project report. The state of art medical imaging data sets will be freely available through the class. About 5 different types data (2D and 3D images, surface mesh data, network data, time series data) will be available. If you want to use your own data, consult with the instructor. 
+🔴 For students new to the field, you do not require to prepare for your own medical imaging data for the project report. The state of art medical imaging data sets will be freely available through the class. About 5 different types of data (2D and 3D images, surface mesh data, network data, time series data) will be available. If you want to use your own data, consult with the instructor. 
 
 
 

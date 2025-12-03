@@ -54,7 +54,7 @@ Time series data, clustering, state space estimation, time frequency analysis, a
 
 Statistical simulation and validations - 1 week
 
-Dynamical models: differential equations - 2 week
+Dynamical models: differential equations, dynamic causal models - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
 

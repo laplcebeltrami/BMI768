@@ -52,6 +52,10 @@ Linear equations least squares estimation, matrix exponential, diffusion - 3 wee
 
 Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
+Statistical simulation and validations - 1 week
+
+Dynamical models: differential equations - 2 week
+
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
 
 Statistical Inference, permutation test, online test procedures - 1 week 
@@ -62,7 +66,7 @@ Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Fourier analysis (including Fourier transform) using least squares - 1 week
 
-Statistical simulation and validations - 1 week
+
 
 
 ## 🔴 Textbooks

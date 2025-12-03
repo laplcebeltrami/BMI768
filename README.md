@@ -78,7 +78,7 @@ Brain Network Analysis, 2019 Cambridge University Press
 
 ## 🔴  Course evaluation 
 
-The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 70% on Written Final Research Report, 20% Fianl Oral Research Presentation). Students are required submit the final project report. The project must be based on class materials and students will have choices to choose out of about 30 possible project problems covered in class. The publication-quality state-of-art data and Images for the project will be provided by the intuctor. 
+The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 70% on Written Final Research Report, 20% Fianal Oral Research Presentation). Students are required submit the final project report. The project must be based on class materials and students will have choices to choose out of about 30 possible project problems covered in class. The publication-quality state-of-art data and Images for the project will be provided by the intuctor. 
 
 
 Well written sample class projects in previous image analysis course taught by the instructor can be found here: 

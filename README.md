@@ -15,10 +15,9 @@ Moo K. Chung, mkchung@wisc.edu
 
 University of Wisconsin-Madison
 
-Office: Medical Science Center 4725, 1300 University Ave
+Office: Morgridge Hall 6536, 1205 University Ave, Madison WI 53706
 
-Office Hours: M/W 10:45am-12:00pm. Since MSC is too far from the lecture hall, I will hold the office hour in the class room after each class. 
-To set up separate Zoom appointments, please email the instructor. 
+Office Hours: M/W 10:45am-12:00pm. To set up separate Zoom appointments, please email the instructor. 
 
 
 ## Prerequisite

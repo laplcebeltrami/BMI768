@@ -4,13 +4,13 @@
 
 Days & Times: M/W 9:30-10:45am 
 
-Room: Grainger 2180
+Room: Morgridge Hall 3610
 
 Duration: January 21, 2025 - May 2, 2025
 
 
 
-## Instructor
+## 🔴  Instructor
 Moo K. Chung, mkchung@wisc.edu
 
 University of Wisconsin-Madison
@@ -20,31 +20,33 @@ Office: Morgridge Hall 6536, 1205 University Ave, Madison WI 53706
 Office Hours: M/W 10:45am-12:00pm. To set up separate Zoom appointments, please email the instructor. 
 
 
-## Prerequisite
+## 🔴  Prerequisite
 The course is designed for graduate students who wish to learn quantitative mathematical, statistical and computational techniques in processing and analyzing medical images. The basic understanding of linear algebra, calculus and statistics will be useful to fully understand lectures. The course material is applicable to a wide variety of high dimensional nonstandard data and imaging problems beyond medical images. 
 
 
 
 ## 🔴 Topics
 
-MATLAB programming: Image computation, online & scalable algorithms, optimizations
+MATLAB programming: Image computation, online & scalable algorithms, optimization
 
-Data visualization using MATLAB: manifold data, network and graph data, scientific animation
+Scientific visualization using MATLAB: manifold data, network and graph data, scientific animation
 
-Statistical Models: Inference, p-values, statistical significance, clustering 
+Statistical Analysis: Inference, p-values, statistical significance, clustering and classification
 
-Time series analysis: Biomedical signals, autoregressive models, least squares estimation in time series, granger causality
+Time series Analysis: Biomedical signals, autoregressive models, Granger causality
 
-Functional Data Analysis (FDA): Hilbert space theory, basis function methods, differential equations, regression with basis functions
+Functional Data Analysis (FDA): Hilbert space methods, basis function methods, differential equations, regression with basis functions
 
 Geometric Data Analysis (GDA): Riemannian geometry, regression on manifolds, spectral geometry, spectral clustering
 
-Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topological distance, topological clustering
+Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topological distance, topological clustering, topological avearging
 
-Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization
+Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization, network as time-varying objects. 
 
 
 ## 🔴 Outline
+
+MATLAB programming - 1 week
 
 Linear equations least squares estimation, matrix exponential, diffusion - 3 weeks
 
@@ -63,9 +65,9 @@ Fourier analysis (including Fourier transform) using least squares - 1 week
 Statistical simulation and validations - 1 week
 
 
-## Textbooks
+## 🔴 Textbooks
 
-There is no required textbook. Lecture slides, additional notes, computer codes will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each method works. Parts of lectures will be based on the following three text books written by the instructor:
+There is no required textbook. Lecture slides, additional notes, computer codes, and few video lectures will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each method works. Majority of lecture materials will be based on the following three text books written by the instructor:
 
 Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
 
@@ -74,20 +76,14 @@ Statistical and Computational Methods in Brain Image Analysis, 2013 CRC Press
 Brain Network Analysis, 2019 Cambridge University Press
 
 
-## Course evaluation 
+## 🔴  Course evaluation 
 
-The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 90% on Written Final Research Report). Students are required submit the final project report regardless of the project they do. Additional oral presentation on the project can be done through the class. The project can be 
-
-1) literature review or method survey on topics we discussed in class,
-
-2) computer programming project,
-  
-3) detailed solution to specific problems dicussed in class, or
-
-4) research project. Well written sample class projects in previous image analysis course taught by the instructor can be found here: https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics. 
-
-🔴 For students new to the field, you do not require to prepare for your own medical imaging data for the project report. The state of art medical imaging data sets will be freely available through the class. About 5 different types of data (2D and 3D images, surface mesh data, network data, time series data) will be available. If you want to use your own data, consult with the instructor. 
+The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 80% on Written Final Research Report, 10% Fianl Oral Research Presentation). Students are required submit the final project report. The project must be based on class materials and students will have choices to choose out of about 30 possible project problems covered in class. The publication-quality state-of-art data and Images for the project will be provided by the intuctor. 
 
 
+Well written sample class projects in previous image analysis course taught by the instructor can be found here: 
 
+https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. 
+
+Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics. 
 

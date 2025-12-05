@@ -1,13 +1,14 @@
 # BMI/STAT 768
 
-2025 Spring Semester
+2026 Spring Semester
 
 Days & Times: M/W 9:30-10:45am 
 
 Room: Morgridge Hall 3610
 
-Duration: January 21, 2025 - May 2, 2025
+Duration: January 21, 2026 - April 29, 2026
 
+Spring recess: Mar 28-Apr 5, 2026
 
 
 ## 🔴  Instructor

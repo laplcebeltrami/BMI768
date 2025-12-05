@@ -31,7 +31,7 @@ MATLAB programming: Image computation, online & scalable algorithms, optimizatio
 
 Scientific visualization using MATLAB: manifold data, network and graph data, scientific animation
 
-Statistical Analysis: Inference, p-values, statistical significance, clustering and classification
+Statistical Analysis: Inference, p-values, statistical significance, hierarchical models (mixed-effects models), clustering and classification
 
 Time series Analysis: Biomedical signals, autoregressive models, Granger causality
 

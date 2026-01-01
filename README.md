@@ -92,3 +92,8 @@ https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/.
 
 Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics. 
 
+
+## 🔴 Acknowledgment
+
+The development of some course materials (Hodge Laplacian and various brain network analysis modules) was partially supported by NSF Award 2010778. This support has had a direct and sustained impact on teaching and educational experiences through continuous integration of the developed methods from the project into graduate-level instruction. The course provides a unique testbed for deploying the proposed methods and accompanying software with advanced student users, enabling iterative refinement informed by real-world use and feedback.
+

@@ -47,7 +47,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 ## 🔴 Outline (to be updated with links to class materials at least two days in advance)
 
-MATLAB programming - 1 week
+MATLAB programming, [Matlab](https://github.com/laplcebeltrami/BMI768/tree/main/matlab) - 1 week
 
 Linear operators: least squares estimation, matrix exponential, diffusion, Laplace transform - 2 weeks
 

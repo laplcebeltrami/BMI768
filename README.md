@@ -53,6 +53,8 @@ Linear operators: least squares estimation, matrix exponential, diffusion, Lapla
 
 Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
+Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
+
 Statistical simulation and validations - 1 week
 
 Dynamical models: differential equations, dynamic causal models - 2 weeks
@@ -65,7 +67,7 @@ Wasserstein distance (optimal transport), topological distance, distance based l
 
 Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
-Fourier analysis (including Fourier transform) using least squares - 1 week
+
 
 
 

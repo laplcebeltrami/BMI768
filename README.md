@@ -49,7 +49,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 MATLAB programming - 1 week
 
-Linear equations least squares estimation, matrix exponential, diffusion - 3 weeks
+Linear operators: least squares estimation, matrix exponential, diffusion, Laplace transform - 2 weeks
 
 Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 
@@ -66,7 +66,6 @@ Wasserstein distance (optimal transport), topological distance, distance based l
 Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
 
 Fourier analysis (including Fourier transform) using least squares - 1 week
-
 
 
 

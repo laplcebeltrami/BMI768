@@ -45,7 +45,7 @@ Topological Data Analysis (TDA): persistent homology, persistence diagrams, barc
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization, network as time-varying objects. 
 
 
-## 🔴 Outline
+## 🔴 Outline (to be updated with links to class materials at least two days in advance)
 
 MATLAB programming - 1 week
 
@@ -84,14 +84,13 @@ Brain Network Analysis, 2019 Cambridge University Press
 
 ## 🔴  Course evaluation 
 
-The course evaluation is based on the final project report related activities (10% on Oral Research Proposal, 70% on Written Final Research Report, 20% Fianal Oral Research Presentation). The project must be based on class materials and students will have choices to choose out of about 20 possible project problems covered in class. The publication-quality state-of-art data and Images for the project will be provided by the intuctor. 
-
+The course evaluation is entirely project-based, emphasizing hands-on research and scholarly communication, with required one-to-one interaction between each student and the instructor throughout the semester. Assessment consists of an Oral Research Proposal (10%), a Written Final Research Report (60%), a Final Oral Research Presentation (20%), and Research Engagement and Progress (10%). Projects are grounded in course materials, with students selecting from approximately 20 instructor-curated research problems that reflect state-of-the-art methods covered in class. To lower the barrier to entry and allow students to focus on modeling, analysis, and interpretation rather than data acquisition, publication-quality, state-of-the-art datasets and images are provided by the instructor. The course is designed to support students seeking structured exposure to research or conducting research for the first time through clearly defined milestones, iterative feedback, and close one-to-one mentorship. By the end of the course, students complete a research project approaching publication quality, gaining practical experience in formulating research questions, executing state-of-the-art data analytical methods, and communicating results at a professional level.
 
 Well written sample class projects in previous image analysis course taught by the instructor can be found here: 
 
 https://pages.stat.wisc.edu/~mchung/teaching/MIA/projects/. 
 
-Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics. 
+Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current course topics.  
 
 
 ## 🔴 Acknowledgment

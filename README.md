@@ -47,7 +47,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 
 ## 🔴 Outline (to be updated with links to class materials at least two days in advance)
 
-[Matlab programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab), Advanced programming will be covered later UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html) - 1 week
+[Matlab programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). Advanced programming will be covered later - 1 week
 
 Linear operators: least squares estimation, matrix exponential, diffusion, Laplace transform - 2 weeks
 

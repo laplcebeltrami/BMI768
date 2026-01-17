@@ -50,7 +50,7 @@ To be constantly updated with links to class materials at least two days in adva
 
 [Matlab programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week, Advanced programming will be covered later 
 
-Linear operators: least squares estimation, matrix exponential, [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform) , diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
+Linear operators: least squares estimation, [matrix exponential] (https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform) , diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 
 Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
 

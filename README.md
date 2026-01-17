@@ -45,7 +45,8 @@ Topological Data Analysis (TDA): persistent homology, persistence diagrams, barc
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization, network as time-varying objects. 
 
 
-## 🔴 Outline (to be updated with links to class materials at least two days in advance)
+## 🔴 Outline 
+To be constantly updated with links to class materials at least two days in advance
 
 [Matlab programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). Advanced programming will be covered later - 1 week
 

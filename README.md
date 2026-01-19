@@ -60,6 +60,8 @@ Statistical simulation and validations - 1 week
 
 Writing - Basics, How to write report, papers and evatually publish. Publication ethics - 1 week
 
+Embedding - Riemannian metric, spherical and hyerbolic geometry, Poincare disk  - 2 weeks
+
 Dynamical models: differential equations, dynamic causal models - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks

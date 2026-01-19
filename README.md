@@ -58,6 +58,8 @@ Functional data analysis: fourier analysis (including Fourier transform) using l
 
 Statistical simulation and validations - 1 week
 
+Writing - Basics, How to write report, papers and evatually publish. Publication ethics - 1 week
+
 Dynamical models: differential equations, dynamic causal models - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks

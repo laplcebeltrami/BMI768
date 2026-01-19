@@ -58,7 +58,7 @@ Functional data analysis: fourier analysis (including Fourier transform) using l
 
 Resampling: generating realisitc syntehic images and data, statistical simulation and validations - 1 week
 
-Writing - Basics, How to write report, papers and evatually publish. Publication ethics - 1 week
+Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
 Embedding - Riemannian metric, spherical and hyerbolic geometry, Poincare disk  - 2 weeks
 

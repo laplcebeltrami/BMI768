@@ -82,6 +82,8 @@ Statistical and Computational Methods in Brain Image Analysis, 2013 CRC Press
 
 Brain Network Analysis, 2019 Cambridge University Press
 
+For TDA, we will use Chung, M.K. 2025 PH-STAT, [arXiv:2304.0591](https://arxiv.org/pdf/2304.05912).
+
 
 ## 🔴  Course evaluation 
 

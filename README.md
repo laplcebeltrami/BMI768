@@ -56,7 +56,7 @@ Time series data, clustering, state space estimation, time frequency analysis, a
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
 
-Resampling: generating realisitc syntehic images and data, statistical simulation and validations - 1 week
+Resampling: generating realisitc syntehic images and data, statistical simulation and validations, counterfactual analysis - 1 week
 
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 

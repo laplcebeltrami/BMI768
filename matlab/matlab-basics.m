@@ -3,6 +3,73 @@
 % Moo K. Chung
 % mkchung@wisc.edu
 
+
+%% Symbolic computation examples (MATLAB Symbolic Math Toolbox)
+clear; clc;
+
+% Simplification/derivation
+syms x y
+f = (x^2 - 1)/(x - 1);
+fs = simplify(f);                 % should simplify to x+1 except at x=1
+
+g = sin(x)^2 + cos(x)^2;
+simplify(g)
+
+% Differentiation, gradient
+dF_du = diff(f,x)
+gradF = gradient(f,[x y]);        % 2x1 symbolic gradient
+
+% Taylor expansion
+syms t
+h = exp(t)*cos(t);
+T5 = taylor(h,t,'ExpansionPoint',0,'Order',6)  % up to t^5
+
+% Solve algebraic equations (exact and numeric)
+syms z
+eq = z^3 - 2*z - 5 == 0;
+sol_exact = solve(eq,z)         % exact roots (symbolic)
+vpa(sol_exact,5)           % <-- 5 digit solution
+
+% System of equations
+syms p q
+eqs = [p^2 + q^2 == 1, p - q == 1/2];
+sol_sys = solve(eqs,[p q],'Real',true)
+
+
+% Integration 
+I1 = int(exp(-x^2),x)          % will give erf(x) = 2/sqrt(pi) \int_0^x e^{-t^2} dt
+I2 = int(sin(x)/x,x,0,inf)       % classic integral = pi/2
+
+% Linear algebra: eigenvalues/eigenvectors
+syms lam
+A = [a b; b a];                   % symmetric 2x2
+[eV,eD] = eig(A)                 % symbolic eigendecomposition
+
+% Matrix inversion
+syms a b c
+A = [a b 0 1;
+     0 a 1 0;
+     0 1 c 0;
+     1 0 0 b];
+inv(A)
+
+% Solve an ODE symbolically
+% y'(x) + y = x, y(0)=1
+syms Y(x)
+ode = diff(Y,x) + Y == x;
+cond = Y(0) == 1;
+Ysol = dsolve(ode,cond)
+
+% Convert symbolic expression to numeric function (fast evaluation)
+syms s
+phi = exp(-s^2) * sin(3*s);
+phi_fun = matlabFunction(phi,'Vars',s)    % function handle
+xs = linspace(-2,2,400);
+ys = phi_fun(xs);
+figure;
+plot(xs,ys);
+xlabel('s'); ylabel('\phi(s)');
+
 %---------
 %% VARIABLE ASSIGNMENT
 % MATLAB is dynamically typed: a variable can change its type at runtime.
@@ -401,8 +468,6 @@ b = [4 0]';
 
 X = pinv(A)*b
 %Question: This is not coincidence. WHy solution is invaraint of b? 
-
-
 
 
 

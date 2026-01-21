@@ -6,6 +6,10 @@ Days & Times: M/W 9:30-10:45am
 
 Room: Morgridge Hall 3610
 
+<p align="right">
+  <img src="3610.png" width="600">
+</p>
+
 Duration: January 21, 2026 - April 29, 2026
 
 Spring recess: Mar 28-Apr 5, 2026

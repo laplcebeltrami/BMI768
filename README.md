@@ -26,8 +26,7 @@ Office Hours: M/W 10:45am-12:00pm. To set up separate Zoom appointments, please 
 
 
 ## 🔴  Prerequisite
-The course is designed for graduate students who wish to learn quantitative mathematical, statistical and computational techniques in processing and analyzing medical images. The basic understanding of linear algebra, calculus and statistics will be useful to fully understand lectures. The course material is applicable to a wide variety of high dimensional nonstandard data and imaging problems beyond medical images. 
-
+This course is designed for graduate students interested in learning quantitative mathematical, statistical, and computational techniques for processing and analyzing medical images. A basic understanding of linear algebra, calculus, and statistics is recommended to fully engage with the lectures. Prior exposure to computer programming is assumed. While the course emphasizes medical imaging, the material is broadly applicable to a wide range of high-dimensional, nonstandard data analysis problems beyond imaging.
 
 
 ## 🔴 Topics

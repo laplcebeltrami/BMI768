@@ -1,6 +1,8 @@
 % GOAL: Investigating cyclic interaction between multiple time-varying signals
-% using the mathemtical ground truth. To do so, we need
-% design a simulation (toy example) where underlying signal has cycles from the start.
+% using the mathemtical ground truth. To do so, we need to
+% design a simulation (toy example), where underlying signal has cycles from 
+% the start.
+% 
 % MINIGOAL: We will learn AI-aided coding and building a new  data structure. 
 %
 % (c) 2026 Moo K. Chung
@@ -49,7 +51,6 @@ figure; cellcomplex_display(Spr)
 % Scalar data on edeges. Default flow will be simply the current edge orientation. 
 Sprf = cellcomplex_flow (Spr);
 figure; cellcomplex_display(Sprf)
-
 
 % Genearte time series that follows the given flow pattern. 
 % The model is based on Vector Auto regressive (VAR) model, which we will study in one lecture.  

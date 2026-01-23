@@ -52,7 +52,7 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomp
 ## 🔴 Outline 
 To be constantly updated with links to class materials at least two days in advance
 
-[Matlab programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). [Building new data structrue](https://github.com/laplcebeltrami/BMI768/tree/main/cublical-complex) UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week 
+Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). [AI-aided programming](https://github.com/laplcebeltrami/BMI768/tree/main/cublical-complex) UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week 
 
 Linear operators: [least squares estimation](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform) , diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 

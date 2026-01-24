@@ -53,13 +53,13 @@ To be constantly updated with links to class materials at least two days in adva
 
 Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). [AI-aided programming](https://github.com/laplcebeltrami/BMI768/tree/main/cublical-complex),UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week 
 
-Linear operators: [least squares estimation](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform) , diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
+Linear operators: [least squares estimation](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 
-Time series data, clustering, state space estimation, time frequency analysis, autoregressive model, Granger causality - 2 weeks
+Resampling: permutation test, generating realisitc syntehic images and data, statistical simulation and validations, counterfactual analysis - 2 weeks
+
+Dynamic data: time series, time frequency analysis, autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
-
-Resampling: generating realisitc syntehic images and data, statistical simulation and validations, counterfactual analysis - 1 week
 
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
@@ -69,7 +69,7 @@ Dynamical models: differential equations, dynamic causal models - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
 
-Statistical Inference, permutation test, online test procedures - 1 week 
+Statistical Inference,  online test procedures - 1 week 
 
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 

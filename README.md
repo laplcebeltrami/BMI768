@@ -57,7 +57,7 @@ Linear operators: [least squares estimation](https://github.com/laplcebeltrami/B
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
 
-Dynamic data: time series, time frequency analysis, autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
+Dynamic data: time series, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
 

@@ -55,7 +55,7 @@ Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI7
 
 Linear operators: [least squares estimation](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 
-Resampling: (permutations)[https://github.com/laplcebeltrami/BMI768/tree/main/permutation], statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
+Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
 
 Dynamic data: time series, time frequency analysis, autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 

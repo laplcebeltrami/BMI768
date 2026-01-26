@@ -8,22 +8,22 @@
 clear; clc;
 
 % Simplification/derivation
-syms x y
-f = (x^2 - 1)/(x - 1);
-fs = simplify(f);                 % should simplify to x+1 except at x=1
+syms x
+f = (x^2 - 1)/(x - 1)
+fs = simplify(f)                 % should simplify to x+1 except at x=1
 
 g = sin(x)^2 + cos(x)^2;
 simplify(g)
 
 % Differentiation, gradient
 dF_du = diff(f,x)
-gradF = gradient(f,[x y]);        % 2x1 symbolic gradient
+gradF = gradient(f,[x y])        % 2x1 symbolic gradient
 
 % Taylor expansion
 syms t
 h = exp(t)*cos(t);
-T5 = taylor(h,t,'ExpansionPoint',0,'Order',6)  % up to t^5
-
+T5 = taylor(h,t,'ExpansionPoint',1,'Order',6)  % up to t^5
+simplify(T5)
 % Solve algebraic equations (exact and numeric)
 syms z
 eq = z^3 - 2*z - 5 == 0;
@@ -41,7 +41,7 @@ I1 = int(exp(-x^2),x)          % will give erf(x) = 2/sqrt(pi) \int_0^x e^{-t^2}
 I2 = int(sin(x)/x,x,0,inf)       % classic integral = pi/2
 
 % Linear algebra: eigenvalues/eigenvectors
-syms lam
+syms lam a b
 A = [a b; b a];                   % symmetric 2x2
 [eV,eD] = eig(A)                 % symbolic eigendecomposition
 
@@ -337,16 +337,32 @@ p = 0;
 for i = 1:n
     if r(i) <= 1
         p = p + 1;
-        hold on; plot(x(i),y(i),'or')
+        hold on; plot(x(i),y(i),'or') 
+        % Red circles mark accepted points (inside r<=1).
     end
 end
-% Conditional statement counts points inside the quarter circle.
-% Red circles mark accepted points (inside r<=1).
 
-ourPi = 4*p/n
+%% Interactively coding with Chat-GPT
+% Done in 1min. Likely saved 10min here.
+%
+% Asked to draw quarter circle 
+theta = linspace(0,pi/2,100);
+plot(cos(theta),sin(theta),'r','LineWidth',2)   % quarter circle boundary
+
+
+% Asked to color quater circle with light red with patch function
+xc = [0 cos(theta) 0];          
+yc = [0 sin(theta) 0];          
+patch(xc,yc,[1 0.8 0.8], ...     % light red fill inside quarter circle
+      'EdgeColor','none', ...
+      'FaceAlpha',0.6)
+
+% draw square boundary
+plot([0 1 1 0 0],[0 0 1 1 0],'k','LineWidth',1.5)
+
+%------------------
 % Monte Carlo estimator of pi.
 
-% more efficient codes
 p = length(find(r <= 1));
 OurPi = 4*p/n
 % Same computation without an explicit loop.
@@ -359,14 +375,17 @@ for n = 1:10000
     x = unifrnd(0,1,[1,n]);
     y = unifrnd(0,1,[1,n]);
     r = sqrt(x.^2 + y.^2);
-    p = length(find(r <= 1));
+    p = length(find(r <= 1)); % Conditional statement counts points inside the quarter circle.
+                        
     OurPi = [OurPi 4*p/n];
 end
+
+OurPi(end)
 figure; plot(OurPi)
 
-%Question: What is the rate of convergence. 
-
-
+%Question 1) What is the rate of convergence?
+%         2) Can you come up with a faster algorithm?
+%         3) This is 2D algorithm. We can develop 1D or 3D algorithm. 
 
 %---------
 % Matrix and its visulaization 

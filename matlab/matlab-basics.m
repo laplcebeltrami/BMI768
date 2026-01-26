@@ -360,15 +360,8 @@ patch(xc,yc,[1 0.8 0.8], ...     % light red fill inside quarter circle
 % draw square boundary
 plot([0 1 1 0 0],[0 0 1 1 0],'k','LineWidth',1.5)
 
-%------------------
+
 % Monte Carlo estimator of pi.
-
-p = length(find(r <= 1));
-OurPi = 4*p/n
-% Same computation without an explicit loop.
-% Uses logical condition r<=1 and counts the TRUE entries.
-
-% rate of convergence
 OurPi = [];
 for n = 1:10000
     n
@@ -382,6 +375,9 @@ end
 
 OurPi(end)
 figure; plot(OurPi)
+
+% Suggestion: Same computation without the loop. Generate random vectors outside
+% of look first. Then simply find # of points inside a circle in one line. 
 
 %Question 1) What is the rate of convergence?
 %         2) Can you come up with a faster algorithm?

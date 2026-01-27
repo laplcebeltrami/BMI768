@@ -1,0 +1,90 @@
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage{amsfonts,amssymb,amsmath}
+%\setcounter{tocdepth}{3}
+\usepackage{natbib}
+
+\usepackage{wrapfig}
+\usepackage{llncsdoc}
+\usepackage{epsfig,psfrag}
+\usepackage{latexsym}
+\usepackage{longtable}
+\usepackage{tikz,pgf}
+\usepackage{subfig}
+\usepackage{wrapfig}
+%\usepackage{rotating}
+%\usepackage{algorithm}
+%\usepackage{algorithmic}
+
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{color}
+
+\newcommand{\bqn}{\begin{eqnarray}}
+\newcommand{\eqn}{\end{eqnarray}}
+\newcommand{\bq}{\begin{eqnarray*}}
+\newcommand{\eq}{\end{eqnarray*}}
+\usepackage[ruled,vlined]{algorithm2e}
+
+\usepackage{url}
+\usepackage{hyperref}
+\hypersetup{colorlinks,%
+citecolor=black,%
+filecolor=blue,%
+linkcolor=red,%
+urlcolor=blue,%
+pdftex}
+
+
+
+\newcommand{\blue}[1]{{\color{blue} #1}}
+\newcommand{\green}[1]{{\color{green} #1}}
+\newcommand{\red}[1]{{\color{red} #1}}
+
+
+
+\begin{document}
+
+
+
+\title{P1: Statistical Inference on Graph Isomorphism}
+\author{Moo K. Chung
+%\hspace{0.2cm}$
+%\footnote[0]{Corresponding address: Moo K. Chung, Waisman Center $\#$281, 1500 Highland Ave. Madison, WI.  53705. USA. Email:{\tt mkhung@wisc.edu}. \url{http://www.stat.wisc.edu/~mchung}}, 
+ }
+\institute{
+University of Wisconsin-Madison, USA\\
+\vspace{0.3cm}
+\blue{\tt mkchung@wisc.edu}
+}
+\authorrunning{Chung}
+
+
+
+\maketitle
+
+
+%\pagestyle{empty}
+
+%\pagestyle{headings}
+%\setcounter{page}{1}
+\pagenumbering{arabic}
+
+
+\begin{abstract}
+Two graphs are said to be isomorphic if there exists a bijection between their vertex sets that preserves adjacency. Graph isomorphism plays a fundamental role in graph matching, alignment, and representation learning, and is widely used in machine learning to compare network-structured data. However, exact isomorphism is rarely observed in real-world networks, particularly in biological and social systems, where noise, heterogeneity, and measurement variability break strict structural equivalence.
+
+Rather than treating non-isomorphism as a failure of graph matching, we view it as an informative signal. In many applications, networks arise from populations that share a common underlying generative mechanism but differ through noise, perturbations, or disease-related effects. Within a homogeneous group, such as healthy controls, networks are therefore expected to remain closer to a common isomorphism class, whereas between heterogeneous groups, such as clinical populations, systematic deviations from this class may emerge. This perspective motivates quantifying the \emph{degree of deviation from isomorphism} as a statistical descriptor of population-level network organization.
+
+
+In this work, we propose a principled framework for measuring divergence from graph isomorphism and demonstrate how this measure can be used to statistically characterize within-group consistency and between-group differences in network data. By reframing isomorphism from a binary property into a continuous, quantifiable notion, our approach enables population-level inference on network structure without requiring exact graph matching, providing a robust tool for statistical analysis of complex networks.
+\end{abstract}
+
+
+
+
+ 
+\bibliographystyle{agsm} 
+\bibliography{reference.2026.01.26}
+
+\end{document}

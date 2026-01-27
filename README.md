@@ -53,7 +53,7 @@ To be constantly updated with links to class materials at least two days in adva
 
 Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). [AI-aided programming](https://github.com/laplcebeltrami/BMI768/tree/main/cublical-complex), UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week 
 
-Linear operators: [least squares estimation](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
+Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
 

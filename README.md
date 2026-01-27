@@ -57,11 +57,11 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
 
+Networks - graphs with Matlab, (graph isomorphism)[https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism] - 1 week
+
 Dynamic data: time series, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
-
-Networks - graphs with Matlab, graph isomorphism - 1 week
 
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 

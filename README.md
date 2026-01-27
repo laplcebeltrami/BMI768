@@ -61,19 +61,21 @@ Dynamic data: time series, [time frequency analysis](https://github.com/laplcebe
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
 
+Networks - graphs with Matlab, graph isomorphism - 1 week
+
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
 Embedding - Riemannian metric, spherical and hyerbolic geometry, Poincare disk  - 2 weeks
 
 Dynamical models: differential equations, dynamic causal models - 2 weeks
 
-Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 3 weeks
+Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 2 weeks
 
 Statistical Inference,  online test procedures - 1 week 
 
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 
-Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 2 weeks
+Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 1 weeks
 
 
 

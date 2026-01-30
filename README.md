@@ -57,7 +57,7 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
 
-Similarity meastures: correlations, entropy - 1 week
+Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
 Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
 

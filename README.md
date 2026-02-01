@@ -55,7 +55,7 @@ Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI7
 
 Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
 
-Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, flow models - 2 weeks
+Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, sensitivity/perturbation analysis - 2 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 

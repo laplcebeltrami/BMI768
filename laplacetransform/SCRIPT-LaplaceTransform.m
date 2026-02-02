@@ -105,14 +105,15 @@ figure; plot(Tk.Date, Tk.Close)
 % X-axis: Date (trading days), Y-axis: Close (end-of-day price)
 
 % Moving average
-Tk.MA20 = movmean(Tk.Close, 20);  % window length (e.g., 20 trading days - one month)
-Tk.MA60 = movmean(Tk.Close, 60);  % window length (e.g., 20 trading days - one month)
+Tk.MA20 = movmean(Tk.Close, 20);  % window length 20 trading days - one month
+Tk.MA60 = movmean(Tk.Close, 60);  % window length 60 trading days - three months
 
-figure;
 plot(Tk.Date, Tk.Close); hold on;
 plot(Tk.Date, Tk.MA20, 'LineWidth', 1);
 plot(Tk.Date, Tk.MA60, 'LineWidth', 2);
-
+legend('PLTR', '20-day MA', '60-day MA')   
+legend box off;
+figure_bigger(18)
 
 % LIMITATIONS OF SLIDING-WINDOW (MOVING AVERAGE)
 %
@@ -143,65 +144,76 @@ plot(Tk.Date, Tk.MA60, 'LineWidth', 2);
 % operation for time series data. 
 
 
-%% MATLAB LAPLACE TRANSFORM: INPUT f(t) (LEFT) vs OUTPUT F(s) (RIGHT)
-% Top row: simple example
-% Bottom row: more complex example
-%
-% Each row shows the time-domain input f(t) on the left and its Laplace
-% transform F(s)=L{f}(s) on the right computed by MATLAB laplace().
+%% Displaying all the stocks clustered into sector (same color, different line styles)
+% FIX: your MATLAB version likely does not support dot-indexing into a struct
+% when the field name is stored in a string. Use dynamic field referencing
+% with parentheses: col.(sname) instead of col.sname.            % <— FIX
 
-syms t s
+%% Displaying all the stocks clustered into sector (same color, different line styles)
 
-tvals = linspace(0,10,500);
-svals = linspace(0.05,10,500);     % avoid s=0 singularity
+symbols = unique(T.Symbol);
 
-figure;
+% DEFINE SECTORS (same color)
+sector = struct; 
+sector.Platform   = ["MSFT","GOOGL","PLTR"]; % Red
+sector.Energy     = ["CVX","XOM"];           % Blue
+sector.Banks      = ["JPM","C"];             % Gray
+sector.Health     = ["JNJ"];                 % Black dash-dot
+sector.Market     = ["VOO"];                 % Black solid
 
-%% ===== TOP: f(t)=exp(-2t) =====
-f1  = exp(-2*t);
-F1  = laplace(f1, t, s);           % MATLAB symbolic Laplace transform
+sectorNames = fieldnames(sector);
 
-f1_t = double(subs(f1, t, tvals));
-F1_s = double(subs(F1, s, svals));
+% COLORS (only for defined sectors) 
+col = struct;   
+col.Platform  = [1 0 0];         % red
+col.Energy    = [0 0.4 1];       % blue
+col.Banks = [1.0 0.75 0.4];   % light orange
+col.Health    = [0 0 0];         % black
+col.Market    = [0 0 0];         % black
 
-subplot(2,2,1)
-plot(tvals, f1_t, 'LineWidth',2)
-title('Input: $f(t)=e^{-2t}$','Interpreter','latex')
-xlabel('$t$','Interpreter','latex')
-ylabel('$f(t)$','Interpreter','latex')
+% line styles inside multi-ticker sectors
+linestyles4 = {'-','--',':','-.'};
+
+% special styles for black sectors (only those defined)  % <— FIX
+style = struct;                  % <— FIX
+style.Health = '-.';             % dash-dot
+style.Market = '-';              % solid
+
+figure; hold on
+h = gobjects(0,1);
+legtxt = strings(0,1);
+
+for s = 1:numel(sectorNames)
+    sname = sectorNames{s};                 
+    tickers = sector.(sname);
+    c = col.(sname);
+
+    for k = 1:numel(tickers)
+        Ti = T(T.Symbol == tickers(k), :);
+
+        % choose linestyle
+        if strcmp(sname,'Health')
+            ls = style.Health;
+        elseif strcmp(sname,'Market')
+            ls = style.Market;
+        else
+            ls = linestyles4{mod(k-1,numel(linestyles4))+1};
+        end
+
+        hp = plot(Ti.Date, Ti.Close, 'Color', c, 'LineStyle', ls, 'LineWidth', 2);
+        h(end+1,1) = hp; %#ok<AGROW>
+        legtxt(end+1,1) = string(sname) + " : " + tickers(k); %#ok<AGROW>
+    end
+end
+
+xlabel('Date','FontSize',16)
+ylabel('Closing Price','FontSize',16)
+title('')
+set(gca,'FontSize',14)
 grid on
-
-subplot(2,2,2)
-plot(svals, F1_s, 'LineWidth',2)
-title('Output: $F(s)=\mathcal{L}\{f(t)\}(s)$','Interpreter','latex')
-xlabel('$s$','Interpreter','latex')
-ylabel('$F(s)$','Interpreter','latex')
-grid on
+legend(h, legtxt, 'Location','eastoutside', 'FontSize',40)
 
 
-%% ===== BOTTOM: f(t)=t^2 e^{-t}\sin(2\pi t) =====
-f2  = t^2*exp(-t)*sin(2*pi*t);
-F2  = laplace(f2, t, s);           % MATLAB symbolic Laplace transform
-
-f2_t = double(subs(f2, t, tvals));
-F2_s = double(subs(F2, s, svals));
-
-subplot(2,2,3)
-plot(tvals, f2_t, 'LineWidth',2)
-title('Input: $f(t)=t^2 e^{-t}\sin(2\pi t)$','Interpreter','latex')
-xlabel('$t$','Interpreter','latex')
-ylabel('$f(t)$','Interpreter','latex')
-grid on
-
-subplot(2,2,4)
-plot(svals, F2_s, 'LineWidth',2)
-title('Output: $F(s)=\mathcal{L}\{f(t)\}(s)$','Interpreter','latex')
-xlabel('$s$','Interpreter','latex')
-ylabel('$F(s)$','Interpreter','latex')
-grid on
-
-
-%% POSSIBLE PROJECT TOPIC 1/20
 % TIME-VARYING VECTOR FIELD FROM TWO STOCKS (CVX vs XOM)
 % Chevron (CVX) and Exxon Mobil (XOM) are two major oil & gas majors. 
 % Their revenues, costs, and valuations are driven by the same global forces: 
@@ -213,8 +225,7 @@ grid on
 %   v(t) = (dx(t), dy(t)) = (x(t+1)-x(t), y(t+1)-y(t)).
 % Then we smooth the dynamic vector fields using the Laplace Transform.
 
-
-% 1) Align by common trading dates (keep Close only)
+% 1) Align by common trading dates 
 S = innerjoin( ...
     T(T.Symbol=="CVX", ["Date","Close"]), ...
     T(T.Symbol=="XOM", ["Date","Close"]), ...
@@ -239,5 +250,62 @@ dPs = diff(Ps,1,1);                 % (N-1) x 2
 quiver(Ps(1:end-1,1), Ps(1:end-1,2), dPs(:,1), dPs(:,2), 0, 'LineWidth', 2);
 legend('Raw','OU mean'); legend boxoff
 
+% PROJECT QUESTION: This method work for seeing the pattern for 2 time serieses.
+% How to expend this to 3 or more time serieses?
+% If you model Y <-- f(X), Z <-- g(Y), X <-- h(Z), 
+% most likley you will introduce nonexistent 3D cycle into the pattern.  
+% So how we model this without introducing artifical cycles. 
+
+%% ============================
+% LAPLACE TRANSFORM: INPUT f(t) --> OUTPUT F(s) 
+
+syms t s
+
+tvals = linspace(0,10,500);
+svals = linspace(0.05,10,500);     % avoid s=0 singularity
+
+
+%% input f(t)=exp(-2t) 
+f1  = exp(-2*t);
+F1  = laplace(f1, t, s);           % MATLAB symbolic Laplace transform
+
+f1_t = double(subs(f1, t, tvals));
+F1_s = double(subs(F1, s, svals));
+
+figure; subplot(2,2,1)
+plot(tvals, f1_t, 'LineWidth',2)
+title('Input: $f(t)=e^{-2t}$','Interpreter','latex')
+xlabel('$t$','Interpreter','latex')
+ylabel('$f(t)$','Interpreter','latex')
+grid on
+
+subplot(2,2,2)
+plot(svals, F1_s, 'LineWidth',2)
+title('Output: $F(s)=\mathcal{L}\{f(t)\}(s)$','Interpreter','latex')
+xlabel('$s$','Interpreter','latex')
+ylabel('$F(s)$','Interpreter','latex')
+grid on
+
+
+%% input f(t)=t^2 e^{-t}\sin(2\pi t)
+f2  = t^2*exp(-t)*sin(2*pi*t);
+F2  = laplace(f2, t, s);           % MATLAB symbolic Laplace transform
+
+f2_t = double(subs(f2, t, tvals));
+F2_s = double(subs(F2, s, svals));
+
+subplot(2,2,3)
+plot(tvals, f2_t, 'LineWidth',2)
+title('Input: $f(t)=t^2 e^{-t}\sin(2\pi t)$','Interpreter','latex')
+xlabel('$t$','Interpreter','latex')
+ylabel('$f(t)$','Interpreter','latex')
+grid on
+
+subplot(2,2,4)
+plot(svals, F2_s, 'LineWidth',2)
+title('Output: $F(s)=\mathcal{L}\{f(t)\}(s)$','Interpreter','latex')
+xlabel('$s$','Interpreter','latex')
+ylabel('$F(s)$','Interpreter','latex')
+grid on
 
 

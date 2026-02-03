@@ -13,11 +13,7 @@
 %
 % (C) 2021 Moo K. Chung  mkchung@wisc.edu
 %          Universtiy of Wisconsin-Madison
-%
-% Update history:
-%     2021 Jan. 15 created
-%     2023 July 11 commented
-%
+
 
 %symmetric matrix of rank 2
 X=[1 2 3
@@ -41,7 +37,8 @@ Y = exp(X);
 %    28.0810         0         0
 %          0   17.3673         0
 %          0         0    2.1118
-
+norm(X-Y,'fro')
+%27.1099
 
 X_estimate = PDS_find(X)
 
@@ -59,8 +56,8 @@ norm(X-X_estimate,'fro')
 
 
 
-%Another example
-
+%-----------
+%%Self study: Another example
 A=normrnd(0,1,10,3) 
 X=A*A'; %matrix of size 10 x 10 with only 3 positive eigenvalues
 [U,S,V] = svd(X)

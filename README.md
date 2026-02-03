@@ -53,7 +53,13 @@ To be constantly updated with links to class materials at least two days in adva
 
 Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). [AI-aided programming](https://github.com/laplcebeltrami/BMI768/tree/main/cublical-complex), UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). 1 week 
 
-Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), diffusion - 2 weeks - Adavnced diffusion model will be covered later. 
+Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 weeks 
+
+Manifold data: surface mesh, finite elment methods, Riemannian metric, diffusion - 2 weeks
+
+Dynamic data: time series, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
+
+
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, sensitivity/perturbation analysis - 2 weeks
 
@@ -61,13 +67,11 @@ Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/
 
 Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
 
-Dynamic data: time series, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
-
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
 
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
-Embedding - Riemannian metric, spherical and hyerbolic geometry, Poincare disk  - 2 weeks
+Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
 
 Dynamical models: differential equations, dynamic causal models - 2 weeks
 

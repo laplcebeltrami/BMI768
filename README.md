@@ -55,15 +55,15 @@ Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI7
 
 Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 weeks 
 
-Manifold data: [2-simplex data](https://github.com/laplcebeltrami/hk), geometric data analysis, diffusion - 2 weeks
+Manifold data: [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), diffusion - 2 weeks
 
 Dynamic data: time series, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
-
+Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, sensitivity/perturbation analysis - 2 weeks
 
-Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
+
 
 Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
 

@@ -55,7 +55,7 @@ Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI7
 
 Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 weeks 
 
-Markov models: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), DAC, Gibbs sampler - 1 week
+Markov models: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), DAG, Gibbs sampler - 1 week
 
 Manifold data: [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic), [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), diffusion - 2 weeks
 

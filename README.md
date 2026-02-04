@@ -57,7 +57,7 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Manifold data: [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic), [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), diffusion - 2 weeks
 
-Dynamic data: [dynamic data](, [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
+Dynamic data: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 

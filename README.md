@@ -63,7 +63,7 @@ Dynamic data: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
-Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, counterfactual analysis, sensitivity/perturbation analysis - 2 weeks
+Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
 
 
 

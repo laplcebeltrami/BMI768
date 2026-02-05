@@ -65,8 +65,6 @@ Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/
 
 Resampling: [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
 
-
-
 Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
 
 Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
@@ -74,8 +72,6 @@ Functional data analysis: fourier analysis (including Fourier transform) using l
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
 Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
-
-Dynamical models: differential equations, dynamic causal models - 2 weeks
 
 Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 2 weeks
 

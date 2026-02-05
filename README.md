@@ -55,11 +55,11 @@ Matlab progrmming: [programming - Basics](https://github.com/laplcebeltrami/BMI7
 
 Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 weeks 
 
-Markov models: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), DAG, Gibbs sampler - 1 week
-
 Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
 Dynamic data: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
+
+Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), Betti numbers, topological clustering, persistence diagrams - 2 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
@@ -72,8 +72,6 @@ Functional data analysis: fourier analysis (including Fourier transform) using l
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
 Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
-
-Topological data analysis: Betti numbers, topological clustering, persistence diagrams - 2 weeks
 
 Statistical Inference,  online test procedures - 1 week 
 

@@ -57,9 +57,7 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Markov models: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), DAG, Gibbs sampler - 1 week
 
-Simplex data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG) [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic) - 1 lecture
-
-Manifold data: [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), 2 weeks
+Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG) [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
 Dynamic data: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 

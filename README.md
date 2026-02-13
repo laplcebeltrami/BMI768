@@ -59,6 +59,8 @@ Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BM
 
 Resampling: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
 
+Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
+
 Dynamic data: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 
 Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), Betti numbers, topological clustering, persistence diagrams - 2 weeks
@@ -66,8 +68,6 @@ Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/m
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
 Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
-
-Functional data analysis: fourier analysis (including Fourier transform) using least squares - 1 week
 
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 

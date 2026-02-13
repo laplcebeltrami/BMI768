@@ -57,7 +57,7 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
-Resampling: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
+Resampling: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
 
@@ -72,8 +72,6 @@ Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebelt
 Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
 
 Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
-
-Statistical Inference,  online test procedures - 1 week 
 
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 

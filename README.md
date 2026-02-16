@@ -59,11 +59,11 @@ Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BM
 
 Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), 1 week
 
-Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),boundary matrices, Betti numbers, U-statistics,  - 2 weeks
+Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), - 1 week
 
-Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
+Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
 
-Hodge theory: Spectral topology, Hodge Laplacian, Hodge decomposition - 1 weeks
+Hodge theory: boundary matrices, Betti numbers, U-statistics, spectral topology, Hodge Laplacian, Hodge decomposition - 1 weeks
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 
@@ -71,13 +71,11 @@ Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
-Networks - graphs with Matlab, [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
+Networks - [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
 
-Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), papers and evatually publish. Publication ethics - 1 week
+Embedding - spherical and hyerbolic geometry, Poincare disk  - 1 week
 
-Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
-
-
+Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report)
 
 
 ## 🔴 Textbooks

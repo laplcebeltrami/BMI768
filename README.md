@@ -77,10 +77,6 @@ Writing - Basics, [How to write report](https://github.com/laplcebeltrami/BMI768
 
 Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
 
-Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
-
-
-
 
 
 

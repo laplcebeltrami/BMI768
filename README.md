@@ -59,7 +59,7 @@ Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BM
 
 Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), 1 week
 
-Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), boundary matrices, Betti numbers, topological clustering,  - 2 weeks
+Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), boundary matrices, Betti numbers, U-statistics, topological clustering  - 2 weeks
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
 

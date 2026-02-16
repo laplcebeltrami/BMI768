@@ -59,9 +59,11 @@ Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BM
 
 Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), 1 week
 
-Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), Betti numbers, topological clustering, persistence diagrams - 2 weeks
+Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), boundary matrices, Betti numbers, topological clustering,  - 2 weeks
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
+
+Hodge theory: Spectral topology, Hodge Laplacian, Hodge decomposition - 1 weeks
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 
@@ -77,7 +79,6 @@ Embedding - spherical and hyerbolic geometry, Poincare disk  - 2 weeks
 
 Wasserstein distance (optimal transport), topological distance, distance based learning - 1 week
 
-Hodge theory: Boundary matrices, Hodge Laplacian, Hodge decomposition - 1 weeks
 
 
 

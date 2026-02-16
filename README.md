@@ -57,11 +57,13 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
-Resampling: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), statistical simulation and validations, sensitivity/perturbation analysis - 2 weeks
+Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), 1 week
+
+Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), Betti numbers, topological clustering, persistence diagrams - 2 weeks
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) - 1 week
 
-Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), Betti numbers, topological clustering, persistence diagrams - 2 weeks
+Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 
 Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, clustering, state space estimation - 2 weeks
 

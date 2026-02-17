@@ -63,6 +63,7 @@ Topological Data Analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/m
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
 
+Diffusion: [diffusion](https://github.com/laplcebeltrami/BMI768/tree/main/diffusion), flow models. diffusion on manifolds - 2 weeks
 Hodge theory: boundary matrices, Betti numbers, U-statistics, spectral topology, Hodge Laplacian, Hodge decomposition - 1 weeks
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week

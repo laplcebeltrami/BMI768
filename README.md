@@ -71,8 +71,6 @@ Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
-Networks - [graph isomorphism](https://github.com/laplcebeltrami/BMI768/tree/main/graph-isomorphism) - 1 week
-
 Embedding - spherical and hyerbolic geometry, Poincare disk  - 1 week
 
 Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report)

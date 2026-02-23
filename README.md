@@ -59,7 +59,7 @@ Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BM
 
 Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), 3 lectures
 
-Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/BMI768/tree/main/PH-STAT), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), - 2 lectures
+Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), - 2 lectures
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
 

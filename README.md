@@ -74,7 +74,7 @@ Embedding - spherical and hyerbolic geometry, Poincare disk  - 1 week
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 
-Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report)
+Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem). 
 
 
 ## 🔴 Textbooks

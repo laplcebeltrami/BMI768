@@ -63,7 +63,7 @@ Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/m
 
 Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
 
-Hodge theory: boundary matrices, Betti numbers, U-statistics, spectral topology, Hodge Laplacian, Hodge decomposition - 1 weeks
+Hodge theory: boundary matrices, Betti numbers, U-statistics, spectral topology, [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), Hodge decomposition - 1 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 

@@ -61,9 +61,9 @@ Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree
 
 Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [TDA](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-TDA.pdf), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), - 2 weeks
 
-Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [Weiner filter](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
+Functional data analysis: [Hilbert space](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), spectral geometry - 1 week
 
-Hodge theory: boundary matrices, Betti numbers, U-statistics, spectral topology, [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), Hodge decomposition - 1 weeks
+Hodge theory: boundary matrices, Betti numbers, [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 1 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 

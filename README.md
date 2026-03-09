@@ -63,13 +63,13 @@ Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/m
 
 Functional data analysis: [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA)  - 1 lecture
 
-Hodge theory: boundary matrices, Betti numbers, [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 1 weeks
+Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 1 week
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 
-Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality, state space estimation - 2 weeks
+Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality -  1 week
 
 Diffusion: [diffusion](https://github.com/laplcebeltrami/BMI768/tree/main/diffusion), flow models. diffusion on manifolds - 2 weeks
 

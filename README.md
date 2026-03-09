@@ -67,11 +67,9 @@ Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
+Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger] causality(https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 1 week
+
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
-
-Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [time frequency analysis](https://github.com/laplcebeltrami/BMI768/tree/main/timeseries), autoregressive model, Granger causality -  1 week
-
-Diffusion: [diffusion](https://github.com/laplcebeltrami/BMI768/tree/main/diffusion), flow models. diffusion on manifolds - 2 weeks
 
 Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem). 
 

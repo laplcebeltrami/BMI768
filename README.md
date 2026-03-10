@@ -57,7 +57,7 @@ Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768
 
 Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
-Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), diffusion - 3 lectures
+Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 3 lectures
 
 Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/main/LLM), [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [TDA](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-TDA.pdf), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), - 2 weeks
 
@@ -67,7 +67,7 @@ Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 
-Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 1 week
+Time series models: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), diffusion - 1 week
 
 Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
 

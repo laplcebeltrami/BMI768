@@ -63,7 +63,7 @@ Topological data analysis: [LLM](https://github.com/laplcebeltrami/BMI768/tree/m
 
 Functional data analysis: [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA)  - 1 lecture
 
-Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), diffusion, [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 weeks
+Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [diffusion](https://github.com/laplcebeltrami/PH-STAT), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 weeks
 
 Similarity meastures: [correlations, entropy](https://github.com/laplcebeltrami/BMI768/tree/main/correlations) - 1 week
 

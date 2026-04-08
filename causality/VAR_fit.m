@@ -10,6 +10,20 @@ function [A_est, X_pred, GC_matrix] = VAR_fit(X, P)
 %   A_est      - (N x N*P) Estimated VAR coefficients
 %   X_pred     - (N x T) Predicted time series
 %   GC_matrix  - (N x N) Matrix of p-values for Granger causality
+%                GC_matrix(i,j) tests whether variable j 
+%                Granger-causes variable i.
+%                Row index i = target (response, effect)
+%                Column index j = source (predictor, cause)
+%
+% Interpretation:
+% $$
+% GC\_matrix(i,j) \;\Rightarrow\; j \rightarrow i
+% $$
+%
+% A small value (e.g., $< 0.05$) means rejecting
+% $H_0$: "variable $j$ does NOT Granger-cause variable $i$",
+% so we conclude $j$ Granger-causes $i$.
+
 %
 % (C) 2025 Moo K. Chung
 % Univeristy of Wisconsin-Madison
@@ -68,7 +82,8 @@ for i = 1:N
 
             % Compute F-statistic
             df1 = P; % Number of restrictions
-            df2 = T - P - P*N^2; % Degrees of freedom
+            %df2 = T - P - P*N^2; % Degrees of freedom
+            df2 = (T - P) - P*N;
             F_stat = ((RSS_restricted - RSS_full) / df1) / (RSS_full / df2);
 
             % Compute p-value

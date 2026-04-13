@@ -65,9 +65,9 @@ Functional data analysis: [Hilbert space theory](https://github.com/laplcebeltra
 
 Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [diffusion](https://github.com/laplcebeltrami/PH-STAT), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 weeks
 
-Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), Structural causal model - 2 week
+Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 2 week
 
-Validation: statistical simulation and validations, sensitivity/perturbation analysis - 1 week
+Validation: statistical simulation and validations, [ROC curve analysis] - 1 week
 
 Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem). 
 

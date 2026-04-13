@@ -1,4 +1,4 @@
-function out = CCD_R(Z, Edges)
+function out = CCD_R(Z)
 % Cyclic Causal Discovery (CCD)
 % This is a practical constraint-based implementation that performs:
 %
@@ -11,8 +11,7 @@ function out = CCD_R(Z, Edges)
 % INPUT
 %   Z     : [T x K] data matrix, rows=time/samples,
 %           cols=variables
-%   Edges : [E x 2] edge list used only for constructing
-%           out.flows
+%
 %
 % OUTPUT
 %   out.connectivity        : [K x K] weighted adjacency proxy
@@ -55,6 +54,19 @@ function out = CCD_R(Z, Edges)
 
 [T,K] = size(Z);
 Y = zscore(Z);
+
+% Edges: Build lexicological edge ordering i < j
+%       [E x 2] edge list used only for constructing out.flows
+E = K*(K-1)/2;
+Edges = zeros(E,2);
+
+cnt = 0;
+for i = 1:K-1
+    for j = i+1:K
+        cnt = cnt + 1;
+        Edges(cnt,:) = [i j];
+    end
+end
 
 alpha = 0.01;
 maxK  = min(100, K-2);  %The size of Set S. 

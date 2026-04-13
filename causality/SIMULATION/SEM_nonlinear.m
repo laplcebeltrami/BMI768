@@ -14,8 +14,16 @@ function out = SEM_nonlinear(Z)
 % additive regression. This implementation uses the nonlinear 
 % structural equation models (SEMs), additive-noise / 
 % additive-function formulations discussed in:
-%
 
+%
+% Additional refences on SEM.
+%   1) Hoyer et al. (2009),
+%      "Nonlinear causal discovery with additive noise models"
+%   2) Peters, Janzing, Schölkopf (2017),
+%      "Elements of Causal Inference"
+%   3) Bühlmann et al. on Causal Additive Models (CAM)
+%
+%
 %
 % Each variable X_j is represented as
 %
@@ -95,8 +103,3 @@ W(1:p+1:end) = 0;
 out.W_inst = W;
 end
 
-%   1) Hoyer et al. (2009),
-%      "Nonlinear causal discovery with additive noise models"
-%   2) Peters, Janzing, Schölkopf (2017),
-%      "Elements of Causal Inference"
-%   3) Bühlmann et al. on Causal Additive Models (CAM)

@@ -67,7 +67,7 @@ Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/
 
 Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 2 week
 
-Validation: statistical simulation and validations, [ROC curve analysis] - 1 week
+Validation: statistical simulation and validations, [ROC curve analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 1 week
 
 Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem). 
 

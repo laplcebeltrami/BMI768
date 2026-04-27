@@ -69,7 +69,7 @@ Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tr
 
 Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC curve analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 1 week
 
-Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem). 
+Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report), [How to write MATLAB script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem) - 1 lecture
 
 
 ## 🔴 Textbooks

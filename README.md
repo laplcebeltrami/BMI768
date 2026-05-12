@@ -30,7 +30,7 @@ Scientifc visualization basics: Points, line, mesh and volume data, manifold dat
 
 Statistical Analysis: Statitical inference, p-values, statistical significance, clustering as inference problem
 
-Dynamic Data Analyis (DDA): Time series analysis, Biomedical signals, vector autoregressive models, causal inference (Granger, structrual equations)
+Dynamic Data Analysis (DDA): Time series analysis, Biomedical signals, vector autoregressive models, causal inference (Granger, structrual equations)
 
 Functional Data Analysis (FDA): Hilbert space methods, basis function methods, differential equations, regression with basis functions
 

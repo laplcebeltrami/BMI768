@@ -69,20 +69,26 @@ Writing - [How to write report](https://github.com/laplcebeltrami/BMI768/tree/ma
 
 There is no required textbook. Lecture slides, additional notes, computer codes, and few video lectures will be provided before each lecture through github. Each lecture will accompany detailed computer demonstration showing how each method works. Majority of lecture materials will be based on the following three text books written by the instructor:
 
-Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
+For statitics, Statistical and Computational Methods in Brain Image Analysis, 2013 CRC Press
 
-Statistical and Computational Methods in Brain Image Analysis, 2013 CRC Press
+For GDA, Computational Neuroanatomy: The Methods, 2012 World Scientific Publishing
 
-Brain Network Analysis, 2019 Cambridge University Press
+For TDA, we will use Chung, M.K. 2025 PH-STAT, [arXiv:2304.0591](https://arxiv.org/pdf/2304.05912) as a textbook. 
 
-For TDA, we will use Chung, M.K. 2025 PH-STAT, [arXiv:2304.0591](https://arxiv.org/pdf/2304.05912).
+For NDA, Brain Network Analysis, 2019 Cambridge University Press
 
 
 ## 🔴  Course evaluation 
 
-The course evaluation is based on Final Project Report Related Activity. Assessment consists of an Oral Research Proposal (10%), a Written Final Research Report (60%), a Final Oral Research Presentation (20%), and Research Engagement and Progress (10%). Projects are grounded in course materials, with students selecting from approximately 20 instructor-curated research problems covered in class. To lower the barrier to entry and allow students to focus on conceptual understanding, modeling, analysis, and interpretation rather than data acquisition, publication-quality datasets and images are provided by the instructor (10 datasets). The course is designed to support students seeking structured exposure to research or conducting research for the first time, through clearly defined milestones and iterative feedback. By the end of the course, students complete a research project that emphasizes methodological soundness, reproducibility, and professional scientific communication.
+The course evaluation is based on two extended homework assignments (60%) and final project report (40%). 
 
-Well written sample class projects in previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students usually come from diverse backgrounds: undergraduates, engineering, statistics, CS, psychology, biology, neuroscience and medicine. Each semester, the focus of the course change slightly. So, the sample project reports may not reflect the current semester.  
+For each homework assignment, assessment consists of (i) a written report and accompanying MATLAB codes, and (ii) an oral presentation of the student’s solution. To promote independent work and ensure fair assessment, each student will be assigned a distinct set of homework problems drawn from approximately 20 instructor-curated problem sets and 10 publication-quality datasets and images provided in class. No two students will receive the same set of problems.
+
+For the final project, assessment consists of (i) a final project report with accompanying MATLAB codes and (ii) a final oral presentation. Project topics are open-ended, and students may choose any topic or dataset, but the project should build on methods learned through the homework assignments. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments.
+
+The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedback, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester.
+
+The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work.
 
 
 ## 🔴 Acknowledgment

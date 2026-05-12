@@ -1,19 +1,16 @@
 # BMI/STAT 768
 
-2026 Spring Semester
+2027 Fall Semester
 
 Days & Times: M/W 9:30-10:45am 
 
-Room: Morgridge Hall 3610
+Room: Morgridge Hall (MH) 5621, Visualization Studio
 
 <p align="left">
   <img src="3610.png" width="400">
 </p>
 
-Duration: January 21, 2026 - April 29, 2026
-
-Spring recess: Mar 28-Apr 5, 2026
-
+Duration: September 2, 2026 - December 9, 2026
 
 ## 🔴  Instructor
 Moo K. Chung, mkchung@wisc.edu

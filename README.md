@@ -46,23 +46,19 @@ To be constantly updated with links to class materials at least two days in adva
 
 Matlab progrmming: [Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). [MATLAB live script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem) - 1 week 
 
-Simplex and manifold data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
+Simplical complex data: [0-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/EEG), [1-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/phylogentic),  [2-simplex data](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata), [geometric data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/manifolddata) - 2 weeks
 
-Inference & Permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 3 lectures
+Inference & permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 weeks
 
-Topological data analysis: [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [TDA](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-TDA.pdf), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering) - 2 weeks
+Topological data analysis without algebra: [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [TDA](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-TDA.pdf), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering) - 2 weeks
 
-Linear operators: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) Needed for diffusion lectrues - 2 weeks 
+Functional data analysis through linear operators and basis: [generalized inverse](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [Laplace transform](https://github.com/laplcebeltrami/BMI768/tree/main/laplacetransform), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA)  - 2 weeks
 
-Functional data analysis: [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA)  - 1 lecture
+Geomtric data analysis through Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [diffusion](https://github.com/laplcebeltrami/PH-STAT), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 weeks
 
-Hodge theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [diffusion](https://github.com/laplcebeltrami/PH-STAT), [Hodge decomposition](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 weeks
+Dynamic data analyis & causality: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 2 week
 
-Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 2 week
-
-Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 1 week
-
-Writing - [Basics on technical writing](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 1 lecture
+Validation and scientific writing: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx), [Basics on technical writing](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 2 weeks
 
 
 ## 🔴 Textbooks

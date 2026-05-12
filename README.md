@@ -1,4 +1,4 @@
-# BMI/STAT 768
+# BMI/STAT 768 Statistical Methods for Medical Image Analysis
 
 2027 Fall Semester
 
@@ -19,26 +19,26 @@ Office Hours: M/W 10:45am-12:00pm. To set up separate Zoom appointments, please 
 
 
 ## 🔴  Prerequisite
-This course is designed for graduate students interested in learning quantitative mathematical, statistical, and computational techniques for processing and analyzing medical images. A basic understanding of linear algebra, calculus, and statistics is recommended to fully engage with the lectures. Prior exposure to computer programming is assumed. While the course emphasizes medical imaging, the material is broadly applicable to a wide range of high-dimensional, nonstandard data analysis problems beyond imaging.
+This course is designed for graduate students interested in learning quantitative mathematical, statistical, and computational techniques for processing and analyzing medical images and high diemnstional data. A basic understanding of linear algebra, calculus, and statistics is recommended to fully engage with the lectures. Prior exposure to computer programming is assumed. While the course emphasizes medical imaging methods, the material is broadly applicable to a wide range of high-dimensional, nonstandard data analysis problems beyond imaging.
 
 
 ## 🔴 Topics
 
-MATLAB programming: Image computation, online & scalable algorithms, optimization
+MATLAB programming: Image computation, online & scalable algorithms, optimization, discrteization of contiuious equations
 
-Scientific visualization using MATLAB: manifold data, network and graph data, scientific animation
+Scientifc visualization basics: Points, line, mesh and volume data, manifold data, network and graph data, scientific animation
 
-Statistical Analysis: Inference, p-values, statistical significance, hierarchical models (mixed-effects models), clustering and classification
+Statistical Analysis: Statitical inference, p-values, statistical significance, clustering as inference problem
 
-Time series Analysis: Biomedical signals, autoregressive models, Granger causality
+Dynamic Data Analyis (DDA): Time series analysis, Biomedical signals, vector autoregressive models, causal inference (Granger, structrual equations)
 
 Functional Data Analysis (FDA): Hilbert space methods, basis function methods, differential equations, regression with basis functions
 
-Geometric Data Analysis (GDA): Riemannian geometry, regression on manifolds, spectral geometry, spectral clustering
+Geometric Data Analysis (GDA): Exponential map, diffusion equation, regression on manifolds, spectral geometry, spectral clustering, Wasserstein distance (optimal transport)
 
-Topological Data Analysis (TDA): persistent homology, persistence diagrams, barcodes, topological distance, topological clustering, topological avearging
+Topological Data Analysis (TDA): boundary matrices, Betti numbers, persistent homology, persistence diagrams, barcodes, topological distance, topological clustering, topological avearging (through Wasserstein bycenter)
 
-Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian and decomposition, network data visualization, network as time-varying objects. 
+Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic networks
 
 
 ## 🔴 Outline 

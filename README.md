@@ -6,10 +6,6 @@ Days & Times: M/W 9:30-10:45am
 
 Room: Morgridge Hall (MH) 5621, Visualization Studio
 
-<p align="left">
-  <img src="3610.png" width="400">
-</p>
-
 Duration: September 2, 2026 - December 9, 2026
 
 ## 🔴  Instructor

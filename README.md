@@ -78,7 +78,7 @@ For NDA, Brain Network Analysis, 2019 Cambridge University Press
 
 The course evaluation is based on two extended homework assignments (60%) and final project report (40%). 
 
-For each homework assignment, assessment consists of (i) a written report and accompanying MATLAB codes, and (ii) an oral presentation of the student’s solution. To promote independent work and ensure fair assessment, each student will be assigned a distinct set of homework problems drawn from approximately 20 instructor-curated problem sets and 10 publication-quality datasets and images provided in class. No two students will receive the same set of problems.
+For each homework assignment, assessment consists of (i) a written report and accompanying MATLAB codes, and (ii) an oral presentation of the student’s solution. To promote independent work and ensure fair assessment, each student will be assigned a distinct set of homework problems drawn from approximately 20 instructor-curated problem sets and 10 publication-quality datasets and images provided in class. 
 
 For the final project, assessment consists of (i) a final project report with accompanying MATLAB codes and (ii) a final oral presentation. Project topics are open-ended, and students can choose any topic or dataset, but the project should build prefarably on methods learned through the homework assignments. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments.
 

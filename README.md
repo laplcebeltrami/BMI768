@@ -84,7 +84,7 @@ For the final project, assessment consists of (i) a final project report with ac
 
 The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedback, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester.
 
-The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work.
+The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work. Successful students usually have opportunities to work as research assistants during the summer break. 
 
 
 ## 🔴 Acknowledgment

@@ -1,6 +1,6 @@
 # BMI/STAT 768 Statistical Methods for Medical Image Analysis
 
-2027 Fall Semester
+# 2026 Fall Semester
 
 Days & Times: M/W 9:30-10:45am 
 

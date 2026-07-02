@@ -34,7 +34,7 @@ Functional Data Analysis (FDA): Hilbert space methods, basis function methods, d
 
 Geometric Data Analysis (GDA): Exponential map, diffusion equation, regression on manifolds, spectral geometry, spectral clustering, Wasserstein distance (optimal transport)
 
-Topological Data Analysis (TDA): boundary matrices, Betti numbers, persistent homology, persistence diagrams, barcodes, topological distance, topological clustering, topological avearging (through Wasserstein bycenter)
+Topological Data Analysis (TDA): boundary matrices, Betti numbers, persistent homology, persistence diagrams, barcodes, topological distance, topological clustering, topological avearging (through scalable Wasserstein barycenter)
 
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic networks
 

@@ -39,7 +39,8 @@ Topological Data Analysis (TDA): boundary matrices, Betti numbers, persistent ho
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic networks
 
 
-## 🔴 Outline for 2027 Fall semester (70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis)
+## 🔴 Outline for 2027 Fall semester 
+70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis. 
 
 ## 🔴 Outline for 2026 Spring semester
 To be constantly updated with links to class materials at least two days in advance

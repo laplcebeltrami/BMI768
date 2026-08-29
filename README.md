@@ -39,7 +39,7 @@ Topological Data Analysis (TDA): boundary matrices, Betti numbers, persistent ho
 Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic networks
 
 
-## 🔴 Outline for 2027 Fall semester 
+## 🔴 Outline for 2026 Fall semester 
 70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis. 
 
 ## 🔴 Outline for 2026 Spring semester
@@ -77,9 +77,9 @@ For NDA, Brain Network Analysis, 2019 Cambridge University Press
 
 ## 🔴  Course evaluation 
 
-The course evaluation is based on extended homework assignments (50%) and final project report (50%) related activities. For each homework assignment, assessment consists of a written report with accompanying MATLAB codes. Problems will be drawn from instructor-curated problem sets. For the final project, assessment consists of (i) a final project report with accompanying MATLAB codes and (ii) a final oral presentation. Project topics are open-ended, and students can choose any topic or dataset, but the project should be based on methods learned through the homework assignments. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments.
+The course evaluation is based on extended homework assignments (50%) and final project report (50%) related activities. For each homework assignment, assessment consists of a written report with accompanying MATLAB live scripts. Problems will be drawn from instructor-curated problem sets. For the final project, assessment consists of (i) a final project report with accompanying MATLAB live scripts and (ii) a final oral presentation. Project topics are open-ended, and students can choose any topic or dataset, but the project should be based on methods learned through the homework assignments. PhD students who are already engaged in research may use their own datasets, provided that the project applies methods learned through the homework assignments.
 
-The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedback, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester.
+The course is designed for students seeking structured exposure to research, including those conducting research for the first time. Through clearly defined milestones and iterative feedbacks, students complete a research project emphasizing methodological soundness, reproducibility, and professional scientific communication. Sample class projects from previous image analysis courses taught by the instructor can be found [here](https://github.com/laplcebeltrami/BMI768/tree/main/samplereports). Students typically come from diverse backgrounds, including undergraduate programs, engineering, statistics, computer science, psychology, biology, neuroscience, and medicine. Because the focus of the course changes slightly each semester, previous sample reports may not fully reflect the current semester.
 
 The course supports openness and responsible research. At the same time, students are expected to follow the highest standards of academic integrity in all submitted work. Successful students usually have opportunities to work as research assistants during the summer break. 
 

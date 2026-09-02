@@ -42,6 +42,11 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic n
 ## 🔴 Outline for 2026 Fall semester 
 70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis. 
 
+[Imaging types](https://github.com/laplcebeltrami/BMI768/tree/main/imagingdata) - 1 lecture
+
+Matlab progrmming: [Basics](https://github.com/laplcebeltrami/BMI768/tree/main/matlab). UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html). [MATLAB live script](https://github.com/laplcebeltrami/BMI768/tree/main/LagrangianMechanicsOfATriplePendulumSystem) - 2 lectures
+
+
 ## 🔴 Outline for 2026 Spring semester
 To be constantly updated with links to class materials at least two days in advance
 

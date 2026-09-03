@@ -51,6 +51,7 @@ Matlab programming - Basics, UW-Madison students can get free-copy of Matlab [he
 
 Surface Data Analysis (Basics) - 2 lectures
 
+We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.us/j/8215596136
 
 
 ## 🔴 Outline for 2026 Spring semester

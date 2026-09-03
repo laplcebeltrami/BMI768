@@ -4,6 +4,8 @@ Days & Times: M/W 9:30-10:45am
 
 Room: Morgridge Hall (MH) 5621, Visualization Studio
 
+We will have zoom class on Sept 14, 16, November 9, 11. [Zoom id: 8215596136](https://uwmadison.zoom.us/j/8215596136)
+
 Duration: September 2, 2026 - December 9, 2026
 
 ## 🔴  Instructor

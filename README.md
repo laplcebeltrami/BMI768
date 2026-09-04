@@ -49,7 +49,7 @@ To be constantly updated with links to class materials at least two days in adva
 
 Matlab programming - Basics, UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), Live Script - 2 lectures
 
-Surface Data Analysis (Basics) - 2 lectures
+Surface Data Analysis (Basics) [vector fields](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields)- 2 lectures
 
 We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.us/j/8215596136
 

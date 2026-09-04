@@ -47,7 +47,7 @@ To be constantly updated with links to class materials at least two days in adva
 
 [Imaging types](https://github.com/laplcebeltrami/BMI768/tree/main/imagingdata) - 1 lecture
 
-Matlab programming - Basics, UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields)- 2 lectures
+Matlab programming - Basics, UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/BMI768/tree/main/poisson)- 2 lectures
 
 Surface Data Analysis (Basics) - 2 lectures
 

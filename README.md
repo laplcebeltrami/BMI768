@@ -51,7 +51,7 @@ Matlab programming - [Basics](https://github.com/laplcebeltrami/BMI768/tree/main
 
 [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface) - 1 lecture
 
-Diffusion - 1 lecture
+Diffusion - [diffusion on surface](https://github.com/laplcebeltrami/diffusion) 1 lecture
 
 Data complexity - 1 lecture
 

@@ -51,7 +51,7 @@ Matlab programming, UW-Madison students can get free-copy of Matlab [here](https
 
 [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface) - 1 lecture
 
-Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf) [diffusion on surface](https://github.com/laplcebeltrami/diffusion) - 1 lecture
+Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion) - 1 lecture
 
 Data complexity - 1 lecture
 

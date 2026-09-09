@@ -45,6 +45,8 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic n
 70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis. 
 To be constantly updated with links to class materials at least two days in advance.
 
+We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.us/j/8215596136
+
 [Imaging types](https://github.com/laplcebeltrami/BMI768/tree/main/imagingdata) - 1 lecture
 
 Matlab programming -  UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/poisson)- 1 lecture
@@ -55,8 +57,9 @@ Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/m
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), data complexity - 2 lectures
 
+Topology - trees and cycles, , boundary matrices - 2 lectures 
 
-We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.us/j/8215596136
+Distance-based inference - topological distance, covariate adjustment - 2 lectures
 
 
 ## 🔴 Outline for 2026 Spring semester

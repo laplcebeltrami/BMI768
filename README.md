@@ -51,7 +51,7 @@ We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.u
 
 Matlab programming -  UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/poisson)- 1 lecture
 
-Manifold data = [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [Fisher metric](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf)  - 2 lectures
+Manifold data = [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface)  - 1 lecture
 
 Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 2 lectures
 

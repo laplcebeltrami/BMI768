@@ -53,7 +53,7 @@ Matlab programming -  UW-Madison students can get free-copy of Matlab [here](htt
 
 Manifold data = [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [Fisher metric](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf)  - 2 lectures
 
-Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), Poisson flow - 2 lectures
+Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 2 lectures
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), data complexity - 2 lectures
 

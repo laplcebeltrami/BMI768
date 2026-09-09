@@ -47,13 +47,13 @@ To be constantly updated with links to class materials at least two days in adva
 
 [Imaging types](https://github.com/laplcebeltrami/BMI768/tree/main/imagingdata) - 1 lecture
 
-Matlab programming, UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/poisson)- 1 lecture
+Matlab programming -  UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/poisson)- 1 lecture
 
-[Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [Fisher metric](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf)  - 2 lectures
+Manifold data = [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [Fisher metric](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf)  - 2 lectures
 
 Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion) - 2 lectures
 
-Data complexity - 1 lecture
+Data complexity - data similarity, data complexity - 2 lectures
 
 
 We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.us/j/8215596136

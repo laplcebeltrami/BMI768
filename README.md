@@ -55,11 +55,9 @@ Manifold data = [Surface data analysis](https://github.com/laplcebeltrami/BMI768
 
 Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 2 lectures
 
-Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), data complexity - 2 lectures
+Topology - trees and cycles, topological distance, boundary matrices - 2 lectures 
 
-Topology - trees and cycles, , boundary matrices - 2 lectures 
-
-Distance-based inference - topological distance, covariate adjustment - 2 lectures
+Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), data complexity, covariate adjustment - 2 lectures
 
 
 ## 🔴 Outline for 2026 Spring semester

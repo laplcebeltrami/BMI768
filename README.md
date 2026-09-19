@@ -55,9 +55,9 @@ Manifold data - [Surface data analysis](https://github.com/laplcebeltrami/BMI768
 
 Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 2 lectures
 
-Topology - TDA basics, [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 2 lectures 
+Topology - [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/TDA),  [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 2 lectures 
 
-Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), correlation dimension - 2 lectures
+Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 2 lectures
 
 
 ## 🔴 Outline for 2026 Spring semester

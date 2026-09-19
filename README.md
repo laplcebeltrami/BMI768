@@ -59,7 +59,7 @@ Topology - [topology basics](https://github.com/laplcebeltrami/BMI768/tree/main/
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 2 lectures
 
-Functional data analysis [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) [FDA on sphere] - 2 weeks
+Functional data analysis [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) FDA on sphere - 3 lectures
 
 
 ## 🔴 Outline for 2026 Spring semester

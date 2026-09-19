@@ -57,7 +57,7 @@ Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/m
 
 Topology - TDA basics, [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 2 lectures 
 
-Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), data complexity, covariate adjustment - 2 lectures
+Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), correlation dimension - 2 lectures
 
 
 ## 🔴 Outline for 2026 Spring semester

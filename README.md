@@ -51,11 +51,10 @@ We will have zoom class on Sept 14, 16, November 9, 11. https://uwmadison.zoom.u
 
 Matlab programming -  UW-Madison students can get free-copy of Matlab [here](https://www.mathworks.com/academia/tah-portal/university-of-wisconsin-madison-678095.html), [vector data](https://github.com/laplcebeltrami/BMI768/tree/main/vectorfields), [surface data](https://github.com/laplcebeltrami/poisson)- 1 lecture
 
-Manifold data - [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface)  - 1 lecture
+ 
+Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 3 lectures
 
-Diffusion - [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 2 lectures
-
-Topology - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf),  [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 2 lectures 
+Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf),  [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 2 lectures 
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 2 lectures
 

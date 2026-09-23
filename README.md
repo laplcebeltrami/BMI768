@@ -53,11 +53,13 @@ Matlab programming -  UW-Madison students can get free-copy of Matlab [here](htt
  
 Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 3 lectures
 
-Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf),  [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 4 lectures 
+Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf),  [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) - 3 lectures 
+
+Functional data analysis - [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) FDA on sphere - 3 lectures
+
+Spectral learning - basic learning theory, spectral geometry, spectral learning - 2 lectures
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 3 lectures
-
-Functional data analysis - [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) FDA on sphere - 4 lectures
 
 Inference & permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 weeks
 

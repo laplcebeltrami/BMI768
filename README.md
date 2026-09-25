@@ -43,12 +43,9 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic n
 
 ## 🔴 Outline for 2026 Fall semester 
 
-![Dynamic harmonic streamlines](harmonic_superior_subject_01.gif)
-
-<img
-  src="/harmonic_superior_subject_01.gif"
-  alt="Dynamic harmonic streamlines"
-  width="450">
+<img src="harmonic_superior_subject_01.gif"
+     alt="Dynamic harmonic streamlines"
+     width="450">
   
 70% of material will be from 2026 Spring semester with 30% new materials toward more dynamical systems data and manifold data analysis. 
 To be constantly updated with links to class materials at least two days in advance.

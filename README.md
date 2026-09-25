@@ -43,6 +43,8 @@ Network Data Analysis (NDA): Trees, graphs, networks, Hodge Laplacian, dynamic n
 
 ## 🔴 Outline for 2026 Fall semester 
 
+![Dynamic harmonic streamlines](animations/harmonic_superior_subject_01.gif)
+
 <img
   src="/repository-name/assets/animations/harmonic_superior_subject_01.gif"
   alt="Dynamic harmonic streamlines"

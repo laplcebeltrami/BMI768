@@ -59,7 +59,7 @@ Matlab programming -  UW-Madison students can get free-copy of Matlab [here](htt
  
 Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltrami/BMI768/tree/main/surface), [diffusion equation](https://github.com/laplcebeltrami/BMI768/blob/main/diffusion/768-diffusion.pdf), [diffusion on surface](https://github.com/laplcebeltrami/diffusion), [Poisson flow](https://github.com/laplcebeltrami/poisson) - 3 lectures
 
-Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT), [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
+Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) toolbox, [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
 
 Functional data analysis - [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) FDA on sphere - 3 lectures
 

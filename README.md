@@ -61,7 +61,7 @@ Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltr
 
 Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) toolbox, [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
 
-Functional data analysis - [linear operators](https://github.com/laplcebeltrami/BMI768/tree/main/linearequations), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential), [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA) FDA on sphere - 3 lectures
+Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential),FDA on sphere - 3 lectures
 
 Spectral learning - basic learning theory, spectral geometry, spectral learning - 2 lectures
 

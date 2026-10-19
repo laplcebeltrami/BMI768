@@ -61,11 +61,11 @@ Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltr
 
 Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) toolbox, [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
 
-Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 lectures
+Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 1 lecture
 
-Hodge network theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 lectures
+Spectral learning, Hodge network theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 lectures
 
-Inference & permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 weeks
+Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 1 weeks
 
 Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 2 weeks
 

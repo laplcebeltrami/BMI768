@@ -61,17 +61,19 @@ Geometric data analysis - [Surface data analysis](https://github.com/laplcebeltr
 
 Topological data analysis - [topology basics](https://github.com/laplcebeltrami/BMI768/blob/main/TDA/768-topology.pdf), [PH-STAT](https://github.com/laplcebeltrami/PH-STAT) toolbox, [topological distance](https://github.com/laplcebeltrami/BMI768/blob/main/wasserstein/768-wasserstein.pdf), [topological clustering](https://github.com/laplcebeltrami/BMI768/tree/main/clustering),  - 3 lectures 
 
-Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential),FDA on sphere - 3 lectures
+Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 2 lectures
 
-Spectral learning - basic learning theory, spectral geometry, spectral learning - 2 lectures
-
-Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 3 lectures
+Hodge network theory: [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 lectures
 
 Inference & permtuations: [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 weeks
 
+Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 2 weeks
+
+Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 3 lectures
+
 Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 4 lectures
 
-
+Writing technical report - [Basics on technical writing](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 1 lecture
 
 ## 🔴 Outline for 2026 Spring semester
 

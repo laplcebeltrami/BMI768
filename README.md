@@ -63,7 +63,7 @@ Topological data analysis - [topology basics](https://github.com/laplcebeltrami/
 
 Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 1 lecture
 
-Spectral learning, Hodge network theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory) - 2 lectures
+Spectral learning, Hodge network theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [spectral learning] - 2 lectures
 
 Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 1 weeks
 

@@ -67,13 +67,13 @@ Network Hodge theory - [boundary matrices](https://github.com/laplcebeltrami/BMI
 
 Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/hypothesis-testing), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 1 weeks
 
-Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 2 weeks
-
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 3 lectures
+
+Validation: [statistical simulation](https://github.com/laplcebeltrami/BMI768/tree/main/clustering), [validation metrics](https://github.com/laplcebeltrami/BMI768/blob/main/validation/768-correlations.pdf), [ROC analysis](https://github.com/laplcebeltrami/BMI768/blob/main/validation/SCRIPT-ROC.mlx) - 2 weeks
 
 Dynamic data analyis: [dynamic data](https://github.com/laplcebeltrami/BMI768/tree/main/MINST), [scientific animation](https://github.com/laplcebeltrami/BMI768/tree/main/rsfMRInetwork), [autoregressive model, Granger causality](https://github.com/laplcebeltrami/BMI768/tree/main/causality), [Structural causal model](https://github.com/laplcebeltrami/BMI768/tree/main/causality) - 4 lectures
 
-Writing technical report - [Basics on technical writing](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 1 lecture
+LaTex - [Basics on LaTex](https://github.com/laplcebeltrami/BMI768/tree/main/how-to-write-report) - 1 lecture
 
 ## 🔴 Outline for 2026 Spring semester
 

@@ -63,9 +63,9 @@ Topological data analysis - [topology basics](https://github.com/laplcebeltrami/
 
 Functional data analysis - [Hilbert space theory](https://github.com/laplcebeltrami/BMI768/tree/main/FDA), [matrix exponential](https://github.com/laplcebeltrami/BMI768/tree/main/matrixeponential) - 1 lecture
 
-Network Hodge theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [spectral learning](https://github.com/laplcebeltrami/BMI768/blob/main/hodgetheory/768-spectral.pdf) - 2 lectures
+Network Hodge theory - [boundary matrices](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [Hodge Laplacian](https://github.com/laplcebeltrami/BMI768/tree/main/hodgetheory), [spectral learning](https://github.com/laplcebeltrami/BMI768/blob/main/hodgetheory/768-spectral.pdf) - 3 lectures
 
-Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 1 weeks
+Inference & permutations - [hypothesis testing](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [permutations](https://github.com/laplcebeltrami/BMI768/tree/main/permutation), [online test](https://github.com/laplcebeltrami/BMI768/tree/main/permutation) - 2 lectures
 
 Data complexity - [data similarity](https://github.com/laplcebeltrami/BMI768/blob/main/correlations/768-datasimilarity.pdf), [data complexity](https://github.com/laplcebeltrami/BMI768/blob/main/fractal/768-datacomplexity.pdf), [code](https://github.com/laplcebeltrami/BMI768/tree/main/fractal) - 2 lectures
 
